@@ -33,29 +33,29 @@ def convert_audio_to_wav(mp3_path, wav_path):
     audio = AudioSegment.from_mp3(mp3_path)
     audio.export(wav_path, format="wav")
 
-def save_transcription(transcription, file_path="transcription.txt"):
+def save_transcription(transcription, file_path):
     with open(file_path, "w", encoding="utf-8") as file:
         file.write(transcription)
 
-def main(youtube_url):
+def main(youtube_url, output_txt_path):
     mp3_path = "audio.mp3"
     wav_path = "audio.wav"
-    txt_path = "transcription.txt"
 
     try:
         download_audio_from_youtube(youtube_url, mp3_path)
         convert_audio_to_wav(mp3_path, wav_path)
         transcription = transcribe_audio(wav_path)
-        save_transcription(transcription, txt_path)
+        save_transcription(transcription, output_txt_path)
     finally:
         if os.path.exists(mp3_path):
             os.remove(mp3_path)
         if os.path.exists(wav_path):
             os.remove(wav_path)
 
-    return txt_path
+    return output_txt_path
 
 if __name__ == "__main__":
     youtube_url = input("Enter the YouTube video URL: ")
-    txt_file_path = main(youtube_url)
+    output_txt_path = input("Enter the name for the transcription file (with .txt extension): ")
+    txt_file_path = main(youtube_url, output_txt_path)
     print(f"Transcription saved to {txt_file_path}")
