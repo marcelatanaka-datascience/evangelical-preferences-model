@@ -1,5 +1,5 @@
 # ------------------------
-# This code downloads Youtube Videos and transcribes it using OpenAI's Open Source Whisper modal
+# This code downloads Youtube Videos and transcribes it using OpenAI's Open Source Whisper model
 # Important: this code uses numpy 1 to work properly
 # ------------------------
 
