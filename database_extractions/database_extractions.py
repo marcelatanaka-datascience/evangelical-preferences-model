@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from getpass import getpass
 
-CSV_PATH = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/databases_index.csv'
+CSV_PATH = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/databases_index_full.csv'
 OUTPUT_DIR = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/spss_files'
 TIMEOUT = 30  # segundos de espera para ações no navegador
 DOWNLOAD_TIMEOUT = 60  # segundos para conclusão do download
