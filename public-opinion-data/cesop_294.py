@@ -10,7 +10,7 @@ sav_file_path = "00294.sav"
 df, meta = pyreadstat.read_sav(sav_file_path)
 
 # Verificar as primeiras linhas das colunas p19 e religiao para garantir que foram carregadas corretamente
-print(df[['p19', 'religiao']].head())
+print(df[['p19', 'p20','religiao']].head())
 
 # Definir o mapeamento das categorias de p24 para a nova variável "religion_aggregate"
 def map_religion(religiao):
@@ -81,6 +81,6 @@ print(f"Valor-p do teste Z: {p_value_z}")
 
 # Interpretação do valor-p do teste Z
 if p_value_z < 0.05:
-    print("Há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que escolheram a opção 2 (Z-Test).")
+    print("Há uma diferença estatisticamente significante entre as proporções de Católicos e Nao Catolicos que escolheram a opção 2 (Z-Test).")
 else:
-    print("Não há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que escolheram a opção 2 (Z-Test).")
+    print("Não há uma diferença estatisticamente significante entre as proporções de Católicos e Nao Catolicos que escolheram a opção 2 (Z-Test).")

@@ -78,6 +78,6 @@ print(f"Valor-p do teste Z: {p_value_z}")
 
 # Interpretação do valor-p
 if p_value_z < 0.05:
-    print("Há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que escolheram a opção 2.")
+    print("Há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que afirmam que o casamento entre pessoas do mesmo sexo nao deve ser reconhecido.")
 else:
-    print("Não há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que escolheram a opção 2.")
+    print("Não há uma diferença estatisticamente significante entre as proporções de Católicos e Evangélicos que afirmam que o casamento entre pessoas do mesmo sexo nao deve ser reconhecido.")
