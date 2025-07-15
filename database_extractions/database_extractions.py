@@ -12,8 +12,8 @@ from getpass import getpass
 
 CSV_PATH = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/databases_index_full.csv'
 OUTPUT_DIR = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/spss_files'
-TIMEOUT = 30  # segundos de espera para ações no navegador
-DOWNLOAD_TIMEOUT = 60  # segundos para conclusão do download
+TIMEOUT = 50  # segundos de espera para ações no navegador
+DOWNLOAD_TIMEOUT = 120  # segundos para conclusão do download
 
 # Solicita credenciais de login
 print("=== CREDENCIAIS DE LOGIN ===")
