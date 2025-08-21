@@ -1,3 +1,23 @@
-TSE_data
-.zip
-.csv
+# OS/IDE
+.DS_Store
+**/.DS_Store
+*.pyc
+__pycache__/
+.vscode/
+*.zip
+
+
+
+# Virtual envs
+doctr-env/
+venv/
+.venv/
+
+# Large raw data (adjust as needed)
+database_extractions/cesop-researches/questionarios/
+database_extractions/ESEB/
+database_extractions/spss_files/
+journal-transcriptions/drive_pdfs/
+database_extractions/ESEB/
+TSE_data/
+
