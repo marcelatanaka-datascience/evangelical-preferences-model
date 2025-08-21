@@ -22,7 +22,7 @@ logging.info("Iniciando análise do debate.")
 
 # === 1. Carregar Corpus ===
 try:
-    data_file = os.path.join(os.path.dirname(__file__), "debate_redetv_2018_1T.txt")
+    data_file = os.path.join(os.path.dirname(__file__), "debate_globo_2014_2T.txt")
     with open(data_file, "r", encoding="utf-8") as f:
         texto = f.read()
     logging.info("Arquivo carregado com sucesso (%s). Tamanho do texto: %d caracteres", data_file, len(texto))
@@ -308,13 +308,14 @@ else:
         "primeiro", "segundo", "terceiro", "quarto", "quinto", "sexto", "sétimo", "oitavo", "nono", "décimo"
         # pronomes e palavras vazias frequentes
         "gente", "pessoas", "alguem", "nada", "coisa", "coisas", "nos", "nós", "voce", "vocês", "voces",
-        "antes", "depois","nao", "ou", "ou seja", "se", "senao", "senao se",
+        "antes", "depois","nao", "ou", "ou seja", "se", "senao", "senao se", "senhor", "senhora",
         # verbos/ações muito gerais
         "sabe", "vou", "fez", "falar", "ter", "tive", "teve", "tem", "têm", "tendo", "vai", "vamos",
         "acho", "queria", "quero", "dizer", "disse", "falou", "falei", "falam", "tambem", "tbm",
         "fizemos", "fiz", "estar", "estamos", "estao", "foi", "foram", "foram", "questao", "houve", "forma"
         # política genérica
-        "presidente", "candidato", "candidatos", "brasil", "pais", "porque", "sobre", "todos", "governo", 
+        "presidente", "candidato", "candidatos", "brasil", "pais", "porque", "sobre", "todos", "governo", "sao paulo", "minas gerais",
+        "candidata", "candidatas",
         # nomes próprios (normalizados sem acento/maiusc)
         "bolsonaro", "lula", "jair", "jair bolsonaro", "marina", "marina silva", "cabo", "daciolo", "cabo daciolo"
         # nomes de redes sociais
