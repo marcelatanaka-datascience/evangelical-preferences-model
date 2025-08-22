@@ -22,7 +22,7 @@ logging.info("Iniciando análise do debate.")
 
 # === 1. Carregar Corpus ===
 try:
-    data_file = os.path.join(os.path.dirname(__file__), "debate_globo_2014_2T.txt")
+    data_file = os.path.join(os.path.dirname(__file__), "debate_sbt_1989_1T.txt")
     with open(data_file, "r", encoding="utf-8") as f:
         texto = f.read()
     logging.info("Arquivo carregado com sucesso (%s). Tamanho do texto: %d caracteres", data_file, len(texto))
@@ -123,56 +123,69 @@ temas_padroes = {
     "educacao": {
         "frases": [
             r"ensino medio", r"ensino fundamental", r"educacao infantil", r"educacao basica",
+            r"universidade", r"escola", r"professor", r"aluno", r"creche", r"merenda",
         ],
         "palavras": [
-            r"educa\w*", r"escola\w*", r"ensino\w*", r"universidad\w*", r"professor\w*", r"alun\w*", r"creche\w*", r"merend\w*",
+            r"educa\w*", r"escola\w*", r"ensino\w*", r"universidad\w*", r"professor\w*", 
+            r"alun\w*", r"creche\w*", r"merend\w*", r"enem\b", r"prouni\b", r"fies\b",
+            r"pronatec\w*", r"escola\w* tecnica", r"formacao\w*", r"qualificacao\w*",
         ],
     },
     "economia": {
-        "frases": [r"reforma tributaria"],
+        "frases": [r"reforma tributaria", r"plano real", r"inflacao", r"crescimento economico"],
         "palavras": [
             r"econom\w*", r"inflac\w*", r"empreg\w*", r"desempreg\w*", r"trabalh\w*", r"salari\w*",
-            r"impost\w*", r"rend\w*", r"pib\b", r"crescimento\w*",
+            r"impost\w*", r"rend\w*", r"pib\b", r"crescimento\w*", r"juros\w*", r"cambio\w*",
+            r"dolar\w*", r"real\b", r"dolar\b", r"mercado\w*", r"investiment\w*",
         ],
     },
-    "armas": {
-        "frases": [r"seguranca publica", r"porte de arma\w*", r"posse de arma\w*"],
-        "palavras": [r"arma\w*", r"desarmament\w*", r"polici\w*", r"homicid\w*", r"violenc\w*", r"seguranc\w*"],
+    "armas_seguranca": {
+        "frases": [r"seguranca publica", r"porte de arma\w*", r"posse de arma\w*", r"violencia"],
+        "palavras": [
+            r"arma\w*", r"desarmament\w*", r"polici\w*", r"homicid\w*", r"violenc\w*", r"seguranc\w*",
+            r"crime\w*", r"criminal\w*", r"assassinat\w*", r"trafico\w*", r"drog\w*",
+            r"policia\w* federal", r"policia\w* militar", r"forca\w* armada\w*",
+        ],
     },
     "religiao": {
         "frases": [r"liberdade de culto", r"moral crist\w*", r"gracas a deus"],
         "palavras": [
-            r"relig\w*", r"igreja\w*", r"deus\b", r"evangelic\w*", r"catolic\w*", r"pastor\w*", r"biblia\w*", r"culto\w*", r"fe\b", 
-            r"oracao\b", r"padre", r"abenc\w", r"crist\b",
-
+            r"relig\w*", r"igreja\w*", r"deus\b", r"evangelic\w*", r"catolic\w*", r"pastor\w*", 
+            r"biblia\w*", r"culto\w*", r"fe\b", r"oracao\b", r"padre", r"abenc\w", r"crist\b",
         ],
     },
     "moralidade_sexualidade": {
         "frases": [r"bons costumes", r"educacao sexual", r"familia tradicional", r"ideologia de genero"],
         "palavras": [
             r"moral\w*", r"famil\w*", r"valore\w*", r"costum\w*", r"tradic\w*", r"conservador\w*",
-            r"sexual\w*", r"genero\w*", r"lgbt\w*", r"homossex\w*", r"transex\w*", r"aborto\w*", r"sexo\b", r"drog\b"
+            r"sexual\w*", r"genero\w*", r"lgbt\w*", r"homossex\w*", r"transex\w*", r"aborto\w*", 
+            r"sexo\b", r"drog\b", r"casamento\w*", r"divorcio\w*",
         ],
     },
     "democracia": {
-        "frases": [r"liberdade de expressao", r"estado de direito"],
+        "frases": [r"liberdade de expressao", r"estado de direito", r"democracia"],
         "palavras": [
-            r"democrac\w*", r"constituic\w*", r"stf\b", r"eleic\w*", r"urna\w*", r"golpe\w*", r"ditadur\w*", r"instituic\w*", r"liberdade\w*",
+            r"democrac\w*", r"constituic\w*", r"stf\b", r"eleic\w*", r"urna\w*", r"golpe\w*", 
+            r"ditadur\w*", r"instituic\w*", r"liberdade\w*", r"voto\w*", r"candidat\w*",
+            r"partido\w*", r"politic\w*", r"governo\w*", r"presidente\w*",
         ],
     },
     "corrupcao": {
-        "frases": [r"lava jato", r"cassacao do mandato", r"crime de responsabilidade"],
+        "frases": [r"lava jato", r"cassacao do mandato", r"crime de responsabilidade", r"mensalao"],
         "palavras": [
-            r"corrupc\w*", r"mensalao\b", r"rachadin\w*", r"propin\w*", r"desvi\w*", r"lavagem de dinheiro",
-            r"corrup\w*", r"improbidad\w*", r"peculato\b", r"enriquecimento ilic\w*", r"laranj\w*",
+            r"corrupc\w*", r"mensalao\b", r"rachadin\w*", r"propin\w*", r"desvi\w*", 
+            r"lavagem de dinheiro", r"corrup\w*", r"improbidad\w*", r"peculato\b", 
+            r"enriquecimento ilic\w*", r"laranj\w*", r"petrolao\b", r"delacao\w*",
         ],
     },
     "fake_news": {
         "frases": [
-            r"fake news", r"noticia falsa", r"noticias falsas", r"checagem de fatos", r"verificacao de fatos", r"fact checking",
+            r"fake news", r"noticia falsa", r"noticias falsas", r"checagem de fatos", 
+            r"verificacao de fatos", r"fact checking",
         ],
         "palavras": [
-            r"desinformacao\w*", r"misinformacao\w*", r"boato\w*", r"mentir\w*", r"mentira\w*", r"engan\w*", r"fals\w*", r"propaganda\w*",
+            r"desinformacao\w*", r"misinformacao\w*", r"boato\w*", r"mentir\w*", r"mentira\w*", 
+            r"engan\w*", r"fals\w*", r"propaganda\w*", r"calunia\w*", r"difamacao\w*",
         ],
     },
     "saude": {
@@ -182,9 +195,49 @@ temas_padroes = {
         ],
         "palavras": [
             r"saude\b", r"doenca\w*", r"pandemi\w*", r"covid\w*", r"coronavirus\w*", r"sars\w*cov\w*",
-            r"vacina\w*", r"vacin\w*", r"imuniz\w*", r"dose\w*", r"sus\b",
-            r"hospita\w*", r"leito\w*", r"uti\b", r"oxigen\w*", r"respirad\w*",
-            r"mascar\w*", r"quarenten\w*", r"isolament\w*", r"lockdown\b", r"epidem\w*", r"contagi\w*", r"transmiss\w*",
+            r"vacina\w*", r"vacin\w*", r"imuniz\w*", r"dose\w*", r"sus\b", r"hospita\w*", 
+            r"leito\w*", r"uti\b", r"oxigen\w*", r"respirad\w*", r"mascar\w*", r"quarenten\w*", 
+            r"isolament\w*", r"lockdown\b", r"epidem\w*", r"contagi\w*", r"transmiss\w*",
+            r"medic\w*", r"remedio\w*", r"tratament\w*",
+        ],
+    },
+    "previdencia": {
+        "frases": [r"previdencia social", r"aposentadoria", r"inss"],
+        "palavras": [
+            r"previdenc\w*", r"aposentador\w*", r"inss\b", r"aposentad\w*", r"pensionist\w*",
+            r"fator previdenciario", r"reforma da previdencia", r"capitalizacao\w*",
+        ],
+    },
+    "infraestrutura": {
+        "frases": [r"obras publicas", r"infraestrutura", r"transporte publico"],
+        "palavras": [
+            r"infraestrutur\w*", r"obra\w*", r"construcao\w*", r"estrada\w*", r"rodovia\w*",
+            r"ferrovia\w*", r"porto\w*", r"aeroporto\w*", r"energia\w*", r"agua\w*",
+            r"saneament\w*", r"transporte\w*", r"metro\w*", r"onibu\w*",
+        ],
+    },
+    "agricultura": {
+        "frases": [r"agricultura familiar", r"agronegocio", r"reforma agraria"],
+        "palavras": [
+            r"agricultur\w*", r"agronegoci\w*", r"fazenda\w*", r"rural\w*", r"campo\w*",
+            r"produtor\w* rural", r"agricultor\w*", r"reforma agraria", r"terra\w*",
+            r"credito rural", r"financiamento\w* agricol\w*",
+        ],
+    },
+    "meio_ambiente": {
+        "frases": [r"meio ambiente", r"desenvolvimento sustentavel", r"mudanca climatica"],
+        "palavras": [
+            r"ambiente\w*", r"ecolog\w*", r"sustentavel\w*", r"clima\w*", r"poluicao\w*",
+            r"floresta\w*", r"amazonia\w*", r"preservacao\w*", r"reciclagem\w*",
+            r"energia renovavel", r"energia solar", r"energia eolica",
+        ],
+    },
+    "internacional": {
+        "frases": [r"relacoes internacionais", r"politica externa", r"mercosul"],
+        "palavras": [
+            r"internacional\w*", r"exterior\w*", r"mercosul\b", r"alca\b", r"brics\b",
+            r"onu\b", r"fmi\b", r"banco mundial", r"exportacao\w*", r"importacao\w*",
+            r"comercio exterior", r"diplomacia\w*",
         ],
     },
 }
