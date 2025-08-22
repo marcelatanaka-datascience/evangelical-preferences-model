@@ -1,0 +1,46 @@
+=== RELATÓRIO DE TENDÊNCIAS TEMPORAIS ===
+
+Período analisado: 2002 - 2022
+Total de anos: 4
+Total de debates: 14
+
+=== TEMAS EMERGENTES ===
+- Corrupcao: +2659.4% (correlação: 0.811)
+- Fake News: +602.4% (correlação: 0.733)
+- Saude: +657.0% (correlação: 0.780)
+
+=== TEMAS EM DECLÍNIO ===
+- Economia: -67.0% (correlação: -0.896)
+- Previdencia: -90.7% (correlação: -0.571)
+- Agricultura: -68.2% (correlação: -0.967)
+- Internacional: -83.9% (correlação: -0.929)
+
+=== TEMAS MAIS FREQUENTES POR ANO ===
+
+2002:
+  - Democracia: 227.4
+  - Economia: 199.6
+  - Educacao: 34.7
+  - Armas Seguranca: 18.8
+  - Agricultura: 18.7
+
+2014:
+  - Democracia: 336.8
+  - Economia: 82.2
+  - Educacao: 62.8
+  - Armas Seguranca: 45.1
+  - Corrupcao: 39.8
+
+2018:
+  - Democracia: 199.8
+  - Economia: 120.8
+  - Armas Seguranca: 40.0
+  - Educacao: 39.7
+  - Corrupcao: 31.3
+
+2022:
+  - Democracia: 136.6
+  - Economia: 65.9
+  - Saude: 53.8
+  - Corrupcao: 30.4
+  - Educacao: 28.5
