@@ -358,7 +358,7 @@ else:
         # marcadores de debate e conectores
         "agora", "aqui", "entao", "falando", "debate", "bloco", "sera", "rodada", "minuto", "minutos",
         "responder", "jornalistas", "confronto", "perguntas", "pergunta", "replica", "tréplica", "tempo", 
-        "primeiro", "segundo", "terceiro", "quarto", "quinto", "sexto", "sétimo", "oitavo", "nono", "décimo"
+        "primeiro", "segundo", "terceiro", "quarto", "quinto", "sexto", "sétimo", "oitavo", "nono", "décimo", "regras", "regra"
         # pronomes e palavras vazias frequentes
         "gente", "pessoas", "alguem", "nada", "coisa", "coisas", "nos", "nós", "voce", "vocês", "voces",
         "antes", "depois","nao", "ou", "ou seja", "se", "senao", "senao se", "senhor", "senhora",
