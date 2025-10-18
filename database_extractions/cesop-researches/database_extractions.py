@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from getpass import getpass
 
-CSV_PATH = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/databases_index_full.csv'
+CSV_PATH = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/cesop-researches/databases_index_full.csv'
 OUTPUT_DIR = '/Users/marcelatanaka/evangelical-preferences-model/database_extractions/spss_files'
 TIMEOUT = 50  # segundos de espera para ações no navegador
 DOWNLOAD_TIMEOUT = 120  # segundos para conclusão do download
@@ -132,7 +132,7 @@ def main():
     if not perform_login(driver, USERNAME, PASSWORD):
         driver.quit(); sys.exit(1)
     for i, row in df.iterrows():
-        url = row.get('Link')
+        url = row.get('Link da pesquisa')
         if not isinstance(url, str) or not url.startswith('http'):
             print(f"[{i}] URL inválida: {url}")
             continue
