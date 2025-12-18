@@ -1,0 +1,12 @@
+﻿Variável Original;Nome Legível;Tipo;N Válidos;N Missing;Média;Desvio Padrão;BP_LM_Estatística;BP_LM_pvalor;BP_Heterocedasticidade;RESET_F_Estatística;RESET_F_pvalor;RESET_Especificação
+freq_inv_z;Frequência a serviços religiosos;Independente;7635;38;0.0;0.9997;;;;;;
+pert_r_z;Pertencimento a org. religiosa;Independente;7586;87;-0.0;0.9997;;;;;;
+import_relig_z;Importância da religião;Independente;7656;17;0.0;0.9997;;;;;;
+relig_r;Religiosidade Individual;Independente;7559;114;0.8366;0.3697;;;;;;
+GrupoEv;Religião;Independente;7452;221;0.1704;0.376;;;;;;
+dummy_ethnic;Raça/Etnia;Independente;7642;31;0.5814;0.4934;;;;;;
+dummy_sex;Sexo;Independente;7673;0;0.4488;0.4974;;;;;;
+escol_z;Escolaridade;Independente;7628;45;-0.0;0.9997;;;;;;
+ano_ord;Ano Ordinal;Independente;7673;0;2.0395;1.4795;;;;;;
+y_moral_inv;Índice de Preferências Políticas Morais;Dependente;7673;0;-0.0;0.7498;18.3343;0.031487;Sim;7.8355;0.000399;Não
+y_intitucional_4vars;Índice de Preferências Políticas Institucionais;Dependente;7673;0;-0.0;0.6797;109.8985;0.0;Sim;1.1207;0.326101;Sim

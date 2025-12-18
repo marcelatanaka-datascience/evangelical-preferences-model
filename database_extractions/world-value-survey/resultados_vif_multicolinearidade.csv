@@ -1,0 +1,12 @@
+﻿Variável;VIF;Interpretação
+freq_inv_z;1.293469151502409;Baixa (aceitável)
+pert_r_z;1.0322653361807916;Baixa (aceitável)
+import_relig_z;1.25191091456307;Baixa (aceitável)
+relig_r;1.2127732370998014;Baixa (aceitável)
+GrupoEv;1.1825862464438186;Baixa (aceitável)
+dummy_ethnic;1.127598136224309;Baixa (aceitável)
+dummy_sex;1.0609732681666824;Baixa (aceitável)
+escol_z;1.039072627059009;Baixa (aceitável)
+ano_ord;4.246777984823731;Baixa (aceitável)
+ameaca_tipo_moral;19.186941664894086;Alta (problema sério)
+ameaca_tipo_inst;5.278654353924087;Moderada (atenção)
