@@ -1,0 +1,4 @@
+﻿variavel1,variavel2,correlacao_pearson,p_value,n_casos_validos,interpretacao,significancia
+V307,V308,0.38965818057200646,1.0785192064656505e-65,1782,positiva moderada,altamente significativa (p < 0.001)
+V307,V309,0.3170462313679594,6.707525187942393e-43,1782,positiva moderada,altamente significativa (p < 0.001)
+V308,V309,0.35617457713888406,1.9402422366557438e-54,1782,positiva moderada,altamente significativa (p < 0.001)

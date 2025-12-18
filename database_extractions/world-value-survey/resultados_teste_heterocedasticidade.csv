@@ -1,0 +1,3 @@
+﻿variável_dependente;lm_statistic;lm_pvalue;f_statistic;f_pvalue;heterocedasticidade;interpretação
+y_moral_inv;18.334310179119836;0.03148718952165804;2.0395142968574977;0.031415860603332124;Sim;Rejeita H0 (heterocedasticidade presente)
+y_intitucional_4vars;109.89845400724717;1.5420785260844787e-19;12.383330014731241;1.0855275244075901e-19;Sim;Rejeita H0 (heterocedasticidade presente)
