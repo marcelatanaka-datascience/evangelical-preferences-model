@@ -1,0 +1,1132 @@
+IPEC- INTELIGÊNCIA EM PESQUISA E
+CONSULTORIA
+
+JOB Nº 21-1403
+
+CÓDIGO
+
+INÍCIO:
+
+QUESTIONÁRIO:
+
+FORNECEDOR:
+_____:_____
+
+RNSP – PESQUISA TEMÁTICA 1
+
+FOLHA DE AMOSTRA: |_____|_____|_____|
+
+NÚMERO DO
+
+TÉRMINO:
+
+DISTRITO: |_____|_____|
+
+_____:_____
+
+__________________________
+
+800 ENTREVISTAS
+
+04 A 28/12/ 2021
+
+SETOR IBGE: |_____|_____|_____|_____|
+
+ZONA: |_____|_____|
+
+SETOR IPEC: |_____|_____|_____|_____|
+NOME DO ENTREVISTADO:
+ENDEREÇO DO DOMICILIO:
+CIDADE:
+RESIDE EM: ►
+
+)
+
+FONE COM: (
+
+)
+
+FONE REC: (
+
+)
+
+CELULAR: (
+
+)
+
+BAIRRO:
+01 ( )
+APARTAMENTO
+
+ENTREVISTADOR(A):
+
+DIGITADOR(A):
+
+VERIFICADOR FORNECEDOR
+
+VERIFICADOR IBOPE
+
+FONE RES: (
+
+CEP: |___|___|___|___|___|-|___|___|___|
+
+02 ( )
+CASA/SOBRADO EM
+CONDOMÍNIO
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+03 ( )
+CASA / SOBRADO FORA DE
+CONDOMÍNIO
+CRÍTICO(A):
+
+REDIGITADOR(A):
+
+04 ( )
+CHÁCARA/ SÍTIO/OUTROS
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+DATA:
+
+CÓDIGO
+|___|___|___|___|___|
+
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+
+INTRODUÇÃO: BOM DIA/ BOA TARDE/ BOA NOITE. MEU NOME É ________. ESTOU REALIZANDO UMA PESQUISA PARA O IPEC - INTELIGÊNCIA
+EM PESQUISA E CONSULTORIA. INFORMO QUE SUA PARTICIPAÇÃO É VOLUNTÁRIA, SUAS RESPOSTAS SÃO CONFIDENCIAIS E PARA GARANTIA
+DA QUALIDADE DA ENTREVISTA, ELA SERÁ GRAVADA.
+GOSTARIA DE INFORMAR AINDA QUE É UMA PESQUISA SOBRE A CIDADE DE SÃO PAULO E SOLICITO SUA AUTORIZAÇÃO PARA USO E
+TRATAMENTO DE TODOS OS DADOS COLETADOS. NÓS GARANTIMOS QUE SUAS RESPOSTAS SERÃO TRATADAS DE FORMA ANÔNIMA E
+CONFIDENCIAL, DE ACORDO COM A LEI GERAL DE PROTEÇÃO DE DADOS.
+VOCÊ NOS AUTORIZA?. SIM ( ) NÃO( ) ENCERRE
+
+_____/_____/ 21
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+
+CODIGO
+CODIFICADOR
+|____|____|____|
+
+WEB INTRODUÇÃO: DIRECIONAR PARA PÁGINA PADRÃO DO PAINEL/FORNECEDOR.
+FILTRO 1) Você trabalha em empresa de publicidade, empresa de pesquisa, em veículos de informação como rádio, emissora de televisão, empresa
+jornalística ou editoras?
+01( ) Sim  AGRADEÇA E ENCERRE
+
+02( ) Não  CONTINUE
+
+FILTRO 2) Há quanto tempo você mora na cidade de São Paulo?
+|_____|_____| anos e |_____|_____| meses  MENOS QUE 2 ANOS, AGRADEÇA E ENCERRE
+
+ATENÇÃO ENTREVISTADOR: ENTREVISTAR SOMENTE PESSOAS QUE MORAM HÁ MAIS DE 02 ANOS EM SÃO PAULO
+SEXO
+
+ALFABETIZAÇÃO) Sabe ler e escrever um bilhete simples? (RU)
+
+OCUPAÇÃO
+
+Masculino
+
+01
+
+Sim ► QUESTIONE A ESCOLARIDADE
+
+01
+
+Feminino
+
+02
+
+Não ► ANOTE CÓD. 01 NO QUADRO ABAIXO
+
+02
+
+IDADE
+|_____|_____| anos
+
+ESCOLARIDADE) Até que ano da Escola você cursou e concluiu? (RU)
+Analfabeto
+01
+Sabe ler/escrever, mas não cursou escola
+
+02
+
+P.OCUP) Você trabalha ou exerce alguma
+atividade remunerada atualmente, mesmo
+que não registrado ou informal?
+
+16 e 17 anos
+
+01
+
+18 a 24 anos
+
+02
+
+25 a 34 anos
+
+03
+
+APÓS 1971
+
+ATÉ 1971
+
+35 a 44 anos
+
+04
+
+1º GRAU/Fundamental I
+
+PRIMÁRIO
+
+45 a 54 anos
+
+05
+
+Pré-escola (ou 1º ano)
+
+Pré-escola
+
+03
+
+55 a 59 anos
+
+06
+
+1ª série (ou 2º ano)
+
+1ª série
+
+04
+
+60 anos ou mais
+
+07
+
+2ª série (ou 3º ano)
+
+2ª série
+
+05
+
+Trabalha (Ocupado)
+
+01
+
+3ª série (ou 4º ano)
+
+3ª série
+
+06
+
+Não trabalha (Não ocupado)
+
+02
+
+4ª série (ou 5º ano)
+
+4ª ou 5ª série
+
+07
+
+APÓS 1971
+
+ATÉ 1971
+
+1º GRAU/Fundamental II
+
+GINÁSIO
+
+5ª série (ou 6º ano)
+
+1ª série
+
+08
+
+6ª série (ou 7º ano)
+
+2ª série
+
+09
+
+7ª série (ou 8º ano)
+
+3ª série
+
+10
+
+8ª série (ou 9º ano)
+
+4ª série
+
+11
+
+ENSINO FUNDAMENTAL
+
+(Entrevistador: Ocupado = trabalha/
+Não ocupado = não trabalha)
+
+REGIÃO
+
+CEP |__||__||__||__||__|-|__||__||__|
+
+ENSINO MÉDIO
+APÓS 1971
+
+ATÉ 1971
+
+2º GRAU/Ensino Médio
+
+COLEGIAL
+
+1ª série
+
+1ª série
+
+12
+
+2ª série
+
+2ª série
+
+13
+
+3ª série
+
+3ª série
+
+14
+
+SUPERIOR
+Superior Incompleto
+
+15
+
+Superior completo
+
+16
+
+ENTREVISTADOR, ATENÇÃO: Na coluna ‘Após 1971’ tem duas opções:
+série (correspondente ao sistema antigo) ou ano (correspondente ao atual
+sistema, implementado entre 2006 e 2010). Verificar com o respondente se
+a série concluída corresponde ao antigo ou novo sistema.
+
+PROGRAMAÇÃO1:
+INCLUIR CONSISTÊNCIA PARA QUE O TEMPO QUE MORA EM SÃO PAULO EM FILTRO 2 NÃO SEJA MAIOR QUE
+A IDADE. EM CASO DE INCONSISTÊNCIA MOSTRAR A MENSAGEM:
+“ATENÇÃO: SUA IDADE NÃO PODE SER MENOR QUE O TEMPO QUE MORA EM SÃO PAULO. POR FAVOR,
+CONFIRA!”
+1( ) CORRIGIR TEMPO QUE MORA EM SÃO PAULO
+2( ) CORRIGIR IDADE”
+
+PROGRAMAÇÃO:
+- CAMPO ONLINE DEVE REALIZAR ENTREVISTAS APENAS NAS CLASSES A, B e C1 (BLOQUEAR APENAS A
+CLASSE A PARA O F2F)
+- CAMPO F2F DEVE REALIZAR ENTREVISTAS APENAS NAS CLASSES C1, C2 E DE.
+- PARA O CAMPO ONLINE/WEB, O CRITÉRIO DE CLASSIFICAÇÃO ECONÔMICA DEVERÁ SER APLICADO SOMENTE
+PARA QUEM NÃO É PERFILADO
+### PARA TODOS ###
+
+DADOS DE CLASSIFICAÇÃO ECONÔMICA – CRITÉRIO BRASIL
+C1) Estes são alguns itens do domicílio para efeito de
+classificação econômica. Todos os itens eletroeletrônicos
+que vou citar devem estar funcionando, incluindo os que
+estão guardados. Caso não estejam funcionando,
+considerem apenas se tiver intenção de consertar ou repor
+nos próximos seis meses.
+
+TEM
+(Quantidade)
+Posse
+de
+itens
+
+Não
+tem
+
+Quantidade de automóveis de passeio exclusivamente
+para uso particular
+
+Automóvel
+de Passeio
+
+Quantidade de empregados mensalistas, considerando
+apenas os que trabalham pelo menos cinco dias por
+semana
+
+Quanti
+dade
+
+1
+
+2
+
+3
+
+4 ou
++
+
+0
+
+3
+
+5
+
+8
+
+11
+
+|___|
+
+Empregado
+s
+Mensalistas
+
+0
+
+3
+
+7
+
+10
+
+13
+
+|___|
+
+Quantidade de máquinas de lavar roupa, excluindo
+tanquinho
+
+Máquina de
+Lavar
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de banheiros
+
+Banheiros
+
+0
+
+3
+
+7
+
+10
+
+14
+
+|___|
+
+DVD
+
+0
+
+1
+
+3
+
+4
+
+6
+
+|___|
+
+Quantidade de geladeiras
+
+Geladeira
+
+0
+
+2
+
+3
+
+5
+
+5
+
+|___|
+
+Quantidade de freezers independentes ou parte da
+geladeira duplex
+
+Freezers
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de microcomputadores, considerando
+computadores de mesa, laptops, notebooks e netbooks e
+desconsiderando tablets, palms ou smartphones
+
+Microcomp
+utadores
+
+0
+
+3
+
+6
+
+8
+
+11
+
+|___|
+
+Quantidade de lavadora de louças
+
+Lava-louça
+
+0
+
+3
+
+6
+
+6
+
+6
+
+|___|
+
+Microondas
+
+0
+
+2
+
+4
+
+4
+
+4
+
+|___|
+
+Motocicleta
+
+0
+
+1
+
+3
+
+3
+
+3
+
+|___|
+
+Secadora
+de Roupas
+
+0
+
+2
+
+2
+
+2
+
+2
+
+|___|
+
+No domicílio tem… (LEIA CADA ITEM)
+
+DVD, incluindo qualquer dispositivo que leia DVD e
+desconsiderando DVD de automóvel
+
+Quantidade de fornos de micro-ondas, incluindo os
+aparelhos com dupla função (de micro-ondas e forno
+elétrico)
+Quantidade de motocicletas, desconsiderando as usadas
+exclusivamente para uso profissional.
+Quantidade de máquinas secadoras de roupas,
+considerando lava-e-seca.
+C2) A água utilizada nesse domicílio é proveniente
+de:
+PONTUAÇÃO
+A) Rede Geral de distribuição
+
+4
+
+B) Poço ou nascente
+
+0
+
+C) Outro meio
+
+0
+
+C3) Considerando o trecho da rua do seu
+domicílio, você diria que a rua é:
+Condição da rua do
+domicílio
+
+PONTUAÇÃO
+
+A) Asfaltada/Pavimentada
+
+2
+
+B) Terra/Cascalho
+
+0
+
+C4) Qual é o grau de instrução do chefe da família? Considerar o último ano cursado e
+concluído. (CONSIDERE COMO CHEFE DA FAMÍLIA A PESSOA QUE CONTRIBUI COM A
+MAIOR PARTE DA RENDA DO DOMICÍLIO).
+
+Nomenclatura atual
+
+Chefe da
+Família
+PONTOS
+( )
+
+Nomenclatura antiga
+
+NOVO (CCEB 2015)
+Analfabeto/ Fundamental I incompleto
+
+0
+
+Fundamental I completo/Fundamental II
+incompleto
+
+1
+
+Fundamental completo/ Médio incompleto
+
+2
+
+Médio completo/ Superior incompleto
+
+4
+
+Superior completo
+
+7
+
+Analfabeto/ Primário incompleto
+(antigo Primário incompleto)
+Primário completo/ Gin. Incompleto
+(antigo Primário completo/antigo
+Ginasial incompleto)
+Ginasial completo/ Col. Incompleto
+(antigo Ginasial completo/antigo
+Colegial incompleto)
+Colegial completo/ Sup. Incompleto
+(antigo Colegial completo/Superior
+incompleto)
+Superior completo
+
+CLASSE SOCIAL
+TOTAL DE
+PONTOS:
+
+|__|__|
+
+A (45 a 100 pontos)
+B1 (38 a 44 pontos)
+B2 (29 a 37 pontos)
+C1 (23 a 28 pontos)
+C2 (17 a 22 pontos)
+DE (0 a 16 pontos)
+
+ENTREVISTADOR: NÃO É
+NECESSÁRIO FAZER A SOMA
+DO CRITÉRIO BRASIL
+
+BLOCO. MULHERES
+Falando um pouco sobre a violência doméstica e familiar contra as mulheres...
+P01) Na sua percepção, nos últimos 12 meses, a violência doméstica e familiar contra as
+mulheres na cidade de São Paulo aumentou muito, aumentou um pouco, está igual, diminuiu
+um pouco ou diminuiu muito? (DEVERÁ MARCAR SOMENTE UMA RESPOSTA)
+01 ( ) Aumentou muito
+02 ( ) Aumentou um pouco
+03 ( ) Está Igual
+04 ( ) Diminuiu um pouco
+05 ( ) Diminuiu muito
+98 ( ) Não sei
+99( ) Não respondeu
+P02) Para cada situação abaixo que eu citar, por favor diga se nos últimos 12 meses, no seu dia
+a dia, você presenciou ou soube de algum caso de violência doméstica e familiar contra as
+mulheres: (LEIA CADA FRASE E MARQUE A OPÇÃO CORRESPONDENTE) (DEVERÁ
+MARCAR UMA RESPOSTA POR ITEM)
+RODIZIAR ITENS
+
+SIM
+
+NÃO
+
+Não sei
+
+Não
+respondeu
+
+a) Presenciei/Soube de caso de violência contra a mulher no
+próprio domicílio
+
+01
+
+02
+
+98
+
+99
+
+b) Presenciei/Soube de caso de violência contra a mulher
+próximo de onde moro
+
+01
+
+02
+
+98
+
+99
+
+c) Presenciei/Soube de caso de violência contra a mulher
+próximo de onde trabalho
+
+01
+
+02
+
+98
+
+99
+
+d) Presenciei/Soube de caso de violência contra a mulher
+com parente próximo ou que convivo
+
+01
+
+02
+
+98
+
+99
+
+e) Presenciei/Soube de caso de violência contra a mulher
+com alguma conhecida ou amiga
+
+01
+
+02
+
+98
+
+99
+
+Mudando um pouco de assunto...
+P03) [CARTELA 24] Como você definiria a divisão dos afazeres domésticos em sua casa, como:
+lavar a louça, lavar a roupa, pôr o lixo para fora, limpar a casa, preparar as refeições, entre
+outros? (RU)
+01(
+02(
+03(
+04(
+05(
+96(
+97(
+99(
+
+) São de responsabilidade apenas das mulheres
+) São de responsabilidade apenas dos homens
+) São de responsabilidade de homens e mulheres, mas as mulheres fazem a maior parte
+) São de responsabilidade de homens e mulheres, mas os homens fazem a maior parte
+) São divididos igualmente entre os homens e mulheres
+) Mora apenas com pessoas do mesmo sexo
+) Mora sozinho
+) Não respondeu
+
+###SOMENTE MULHERES ###
+PROGRAMAÇÃO: PARA COLETA F2F DEVE APARECER UMA TELA COM A SEGUINTE
+MENSAGEM: “ATENÇÃO ENTREVISTADOR: Essa pergunta é de autopreenchimento. Entregue o
+tablet na mão da entrevistada!”
+
+P04) Em qual desses locais você acredita que MAIS corre o risco de sofrer algum tipo de
+assédio? (RU)
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+98(
+99(
+
+) No transporte público
+) Nos pontos de ônibus
+) Na rua
+) Em bares e casas noturnas
+) No transporte particular como Táxi, UBER, Cabify, EasyTaxi e 99
+) No trabalho
+) No ambiente familiar
+) Não sei
+) Não respondeu
+PROGRAMAÇÃO: PARA COLETA F2F DEVE APARECER UMA TELA COM A SEGUINTE
+MENSAGEM: “ATENÇÃO: Por favor, entregue o tablet para o(a) entrevistador(a).”
+
+### PARA TODOS ###
+
+P05) [CARTELA 25] Na sua opinião, qual destas ações ou medidas devem ser a prioridade para
+combater a violência doméstica e familiar contra as mulheres, ou seja, qualquer ação de violência
+psicológica, física, sexual, patrimonial ou verbal direcionada às mulheres. E em segundo lugar? E
+em terceiro? (ATÉ TRÊS OPÇÕES – CASO DEIXE DE CITAR ALGUMA OPÇÃO, MARQUE “NÃO
+RESPONDEU”)
+PROGRAMAÇÃO1: A RESPOSTA DADA NO 1º LUGAR NÃO DEVERÁ APARECER NA SEGUNDA, NEM
+NA TERCEIRA OPÇÃO E A RESPOSTA DADA NO 2º LUGAR NÃO DEVERÁ APARECER NO 3º LUGAR.
+PROGRAMAÇÃO2: CASO O ENTREVISTADO MENCIONE “NENHUMA DESTAS”, “NÃO SEI” OU “NÃO
+RESPONDEU” EM QUALQUER UMA DAS OPÇÕES, PULAR PARA A PRÓXIMA PERGUNTA.
+PROGRAMAÇÃO3: PARA O WEB, RODIZIAR ITENS DE 01 A 10.
+
+1º LUGAR: |___|___|
+
+2º LUGAR: |___|___|
+
+3º LUGAR: |___|___|
+
+01( ) Promover campanhas de conscientização
+02( ) Ampliar os serviços de proteção a mulheres em situação de violência em todas as regiões da
+cidade
+03( ) Melhorar a atuação dos canais de denúncias
+04( ) Criar políticas de segurança comunitária, aproximando a população dos agentes de segurança
+05( ) Criar novas leis de proteção à mulher
+06( ) Aumentar as penas contra quem comete a violência contra a mulher
+07( ) Agilizar o andamento da investigação das denúncias
+08( ) Divulgar mais os canais de denúncias
+09( ) Treinar os funcionários para que possam acolher melhor as mulheres que procuram os canais
+de denúncias
+10( ) Fortalecer os serviços de assistência social em todas as regiões
+97( ) Nenhuma destas/ Outras
+98( ) Não sei
+99( ) Não respondeu
+
+Para finalizar...
+P.PCD) Você, alguém do seu domicílio ou alguém que você convive ou se relaciona possui algum
+tipo de deficiência, seja ela: física, sensorial, intelectual ou mental? (LEIA CADA FRASE E
+MARQUE A OPÇÃO CORRESPONDENTE – NÃO LEIA “NÃO SEI” E “NÃO RESPONDEU”) (RM)
+01(
+02(
+03(
+04(
+98(
+
+) Sim, eu mesmo
+) Sim, alguém do domicílio
+) Sim, alguém que convive ou se relaciona
+) Não
+) Não sei
+
+PROGRAMAÇÃO: PARA COLETA F2F DEVE APARECER UMA TELA COM A SEGUINTE
+MENSAGEM: “ATENÇÃO ENTREVISTADOR: Essa pergunta é de autopreenchimento. Entregue o
+tablet na mão do(a) entrevistado(a)!”
+
+P.ORIENT) Agora gostaria que você indicasse qual é a sua orientação sexual: (DEVERÁ
+MARCAR SOMENTE UMA OPÇÃO)
+01( ) Heterossexual (interesse sexual ou amoroso por indivíduos do sexo oposto que o meu)
+02( ) Homossexual (interesse sexual ou amoroso por indivíduos do mesmo sexo que o meu)
+03( ) Bissexual (interesse sexual ou amoroso por indivíduos de ambos os sexos)
+04( ) Assexual (ausência de interesse sexual ou amoroso por outros indivíduos)
+05( ) Pansexual (interesse sexual ou amoroso entre indivíduos, independentemente do sexo ou
+identidade de gênero, ou por todos os gêneros)
+98( ) Não sei
+99( ) Prefiro não responder
+P.IDENT) Qual a sua identidade de gênero? (DEVERÁ MARCAR SOMENTE UMA OPÇÃO)
+01
+02
+03
+04
+05
+96
+98
+99
+
+(
+(
+(
+(
+(
+(
+(
+(
+
+)
+)
+)
+)
+)
+)
+)
+)
+
+Mulher cisgênero (nasceu mulher e se identifica como mulher)
+Homem cisgênero (nasceu homem e se identifica como homem)
+Homem Trans (nasceu mulher e se identifica como homem)
+Mulher Trans (nasceu homem e se identifica como mulher)
+Travesti (aquele ou aquela que se veste como o gênero oposto)
+Outros
+Não sei
+Prefiro não responder
+
+PROGRAMAÇÃO: PARA COLETA F2F DEVE APARECER UMA TELA COM A SEGUINTE
+MENSAGEM: “ATENÇÃO: Por favor, devolva tablet para o(a) entrevistador(a).”
+
+P.RAÇA) Agora, vou fazer uma pergunta exatamente como é feita pelo IBGE para classificação
+da população brasileira. A sua cor ou raça é: (LEIA TODAS AS OPÇÕES – RU)
+01(
+02(
+03(
+04(
+05(
+
+) Branca
+) Preta
+) Parda
+) Amarela
+) Indígena
+
+P.RELIGIÃO) Qual é a sua religião? (ESPONTÂNEA - RU)
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+08(
+09(
+10(
+11(
+
+) Católica Apostólica Romana
+) Assembleia de Deus
+) Batista/ Metodista/ Presbiteriana
+) Universal do Reino de Deus
+) Deus é Amor
+) Evangelho Quadrangular
+) Igreja Internacional da Graça
+) Renascer em Cristo
+) Sara nossa terra
+) Outras Evangélicas específicas
+) Evangélica - NÃO SEI especificar
+
+12(
+13(
+14(
+15(
+16(
+17(
+18(
+
+) Adventista
+) Testemunha de Jeová
+) Judaica
+) Espírita/ Kardecista
+) Afro-Brasileiras (Umbanda, Candomblé, etc)
+) Orientais (Budismo, Islamismo, etc)
+) Outras religiões (SEM ESPECIFICAR)
+
+19( ) É religioso mas não segue nenhuma/ Agnóstico
+20( ) Ateu, não tem religião
+99( ) Não respondeu
+
+t[CARTELA DE RENDA]
+REND1) Em qual destas faixas está a sua renda individual do mês passado? (DEVERÁ
+MARCAR SOMENTE UMA OPÇÃO)
+REND2) E em qual destas faixas está a renda total da sua família no mês passado, somando as
+rendas de todas as pessoas que moram com você, inclusive a sua? (DEVERÁ MARCAR
+SOMENTE UMA OPÇÃO)
+
+Mais de R$ 22.000,01 / Mais de 20 SM
+Mais de R$ 11.000,01 até R$ 22.000,00 / Mais de 10 a 20 SM
+Mais de R$ 5.500,01 até R$ 11.000,00 / Mais de 5 a 10 SM
+Mais de R$ 2.200,01 até R$ 5.500,00 / Mais de 2 a 5 SM
+Mais de R$ 1.100,01 até R$ 2.200,00 / Mais de 1 a 2 SM
+Até R$ 1.100,00 / Até 1 salário mínimo
+Não tem/tenho rendimento pessoal
+Prefiro não responder
+Outro (Especificar)
+PROGRAMAÇÃO1: Esse item só deve aparecer para a
+programação Online
+
+REND 1)
+RENDA PESSOAL
+01
+02
+03
+04
+05
+06
+98
+99
+
+REND 2)
+RENDA FAMILIAR
+01
+02
+03
+04
+05
+06
+/////
+99
+
+96
+
+96
+
+AQUI ENCERRA A ENTREVISTA, COMO FALEI MEU NOME É............. E QUERO
+AGRADECER A SUA PARTICIPAÇÃO NESTA PESQUISA PARA O IPEC – INTELIGÊNCIA
+EM PESQUISA E CONSULTORIA.
+CASO TENHA ALGUMA DÚVIDA SOBRE A NOSSA PESQUISA VOCÊ PODERÁ ENTRAR
+EM CONTATO DIRETAMENTE COM O IPEC – INTELIGÊNCIA EM PESQUISA E
+CONSULTORIA ATRAVÉS DO
+TELEFONE 0800 800 5000.
+
+ESPECIFICAÇÕES TÉCNICAS DA PESQUISA
+OBJETIVO
+
+Levantar as percepções dos paulistanos acerca de questões relacionadas às mulheres.
+
+LOCAL
+
+São Paulo ‐ SP.
+
+PERÍODO DE CAMPO
+
+De 04 a 28 de dezembro de 2021.
+
+UNIVERSO
+
+A pesquisa é realizada com população de 16 anos ou mais da área em estudo.
+
+AMOSTRA
+
+Representativa da população do universo e distribuída de maneira desproporcional nas 5 regiões da cidade de São Paulo, com o objetivo de
+permitir a leitura dos resultados por cada uma delas. Além disso, foram definidas cotas proporcionais pelas variáveis descritas no item abaixo.
+
+VARIÁVEIS PARA
+COTAS AMOSTRAIS
+
+SEXO: Masculino e Feminino.
+GRUPOS DE IDADE: 16‐17, 18‐24, 25‐34, 35‐44, 45‐59, 60 anos e mais.
+INSTRUÇÃO ‐ Ensino Fundamental; Ensino Médio; Superior.
+CLASSE SOCIOECONÔMICA: A; B; C1; C2; D/E.
+CONDIÇÃO DE ATIVIDADE: Ocupado; Não ocupado.
+FONTES DE DADOS PARA ELABORAÇÃO DA AMOSTRA: CENSO 2010, PNADC 2019.
+
+PONDERAÇÃO
+
+Os resultados foram ponderados para restabelecer o peso de cada região da cidade e o perfil dos respondentes.
+
+NÚMERO DE
+ENTREVISTAS
+
+Foram realizadas 800 entrevistas.
+
+MARGEM DE ERRO
+
+A margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+
+NÍVEL DE CONFIANÇA
+
+O nível de confiança utilizado é de 95%.
+
+COLETA DE DADOS
+
+Online (painel de internautas) e por meio de coleta face‐a‐face domiciliar, utilizando questionário elaborado de acordo com os objetivos da
+pesquisa.
+
+CONTROLE DE
+QUALIDADE
+
+ Verificação dos chamados “speeders” (painelistas que respondem rápido demais a uma pesquisa, clicando em qualquer resposta da tela
+para finalizar o questionário o mais rápido possível);
+ Inserção de perguntas aleatórias não relacionadas ao tema do estudo, ou spamtrap, que tem o intuito de verificar se os respondentes
+estão ou não prestando atenção no questionário.
+
+

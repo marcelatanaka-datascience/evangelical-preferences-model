@@ -1,0 +1,1457 @@
+AV. FRANCISCO
+
+CÓDIGO
+
+MATARAZZO, 1350 –
+
+FORNECEDOR:
+
+8º ANDAR - SP
+
+JOB Nº 20_0920-A
+
+DISTRITO: |_____|_____|
+
+QUESTIONÁRIO:
+
+BAIRRO:
+01 ( )
+APARTAMENTO
+
+DIGITADOR(A):
+
+VERIFICADOR FORNECEDOR
+
+04| 12 | 2020
+
+SETOR IBGE: |_____|_____|_____|_____|
+
+FONE REC: (
+CELULAR: (
+
+CIDADE:
+
+ENTREVISTADOR(A):
+
+__________________________
+
+800 ENTREVISTAS
+
+ENDEREÇO DO DOMICILIO:
+
+VERIFICADOR IBOPE
+
+_____:_____
+
+ZONA: |_____|_____|
+
+SETOR IBOPE: |_____|_____|_____|_____|
+FONE RES: (
+)
+FONE COM: (
+)
+
+NOME DO ENTREVISTADO:
+
+RESIDE EM: ►
+
+NÚMERO DO
+
+TÉRMINO:
+
+_____:_____
+
+RNSP – PESQUISA TEMÁTICA 1
+
+FOLHA DE AMOSTRA: |_____|_____|_____|
+
+INÍCIO:
+
+CÓDIGO
+
+02 ( )
+CASA/SOBRADO EM
+CONDOMÍNIO
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 19
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 19
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 19
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 19
+
+)
+)
+
+CEP: |___|___|___|___|___|-|___|___|___|
+03 ( )
+CASA / SOBRADO FORA DE
+CONDOMÍNIO
+CRÍTICO(A):
+REDIGITADOR(A):
+
+04 ( )
+CHÁCARA/ SÍTIO/OUTROS
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 19
+DATA:
+
+CÓDIGO
+|___|___|___|___|___|
+
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+
+INTRODUÇÃO: BOM DIA/ BOA TARDE/ BOA NOITE. MEU NOME É ________. ESTOU REALIZANDO UMA PESQUISA PARA O IBOPE. INFORMO
+QUE SUA PARTICIPAÇÃO É VOLUNTÁRIA, SUAS RESPOSTAS SÃO CONFIDENCIAIS E PARA GARANTIA DA QUALIDADE DA ENTREVISTA, ELA
+SERÁ GRAVADA.
+GOSTARIA DE INFORMAR AINDA QUE É UMA PESQUISA SOBRE A CIDADE DE SÃO PAULO E SOLICITO SUA AUTORIZAÇÃO PARA USO E
+TRATAMENTO DE TODOS OS DADOS COLETADOS. NÓS GARANTIMOS QUE SUAS RESPOSTAS SERÃO TRATADAS DE FORMA ANÔNIMA E
+CONFIDENCIAL, DE ACORDO COM A LEI GERAL DE PROTEÇÃO DE DADOS. VOCÊ NOS AUTORIZA?. SIM ( ) NÃO( ) ENCERRE
+// WEB INTRODUÇÃO: DIRECIONAR PARA PÁGINA PADRÃO DO CONECTA.
+
+_____/_____/ 19
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+
+CODIGO
+CODIFICADOR
+|____|____|____|
+
+FILTRO 1) Você trabalha em empresa de publicidade, empresa de pesquisa, em veículos de informação como rádio, emissora de televisão, empresa
+jornalística ou editoras?
+01( ) Sim  AGRADEÇA E ENCERRE 02( ) Não  CONTINUE
+FILTRO 2) Há quanto tempo você mora na cidade de São Paulo?
+|_____|_____| anos e |_____|_____| meses  MENOS QUE 2 ANOS, AGRADEÇA E ENCERRE
+
+ATENÇÃO ENTREVISTADOR: ENTREVISTAR SOMENTE ENTREVISTAR SOMENTE PESSOAS QUE MORAM HÁ MAIS DE 02 ANOS EM SÃO PAULO
+SEXO
+
+ALFABETIZAÇÃO) Sabe ler e escrever um bilhete simples? (RU)
+
+OCUPAÇÃO
+
+Masculino
+
+01
+
+Sim ► QUESTIONE A ESCOLARIDADE
+
+01
+
+Feminino
+
+02
+
+Não ► ANOTE CÓD. 01 NO QUADRO ABAIXO
+
+02
+
+ESCOLARIDADE) Até que ano da Escola você cursou e concluiu? (RU)
+Analfabeto
+01
+
+IDADE
+|_____|_____| anos
+
+Sabe ler/escrever, mas não cursou escola
+
+02
+
+P.OCUP) Você trabalha ou exerce alguma
+atividade remunerada atualmente, mesmo
+que não registrado ou informal?
+(Entrevistador: Ocupado = trabalha/
+Não ocupado = não trabalha)
+
+16 e 17 anos
+
+01
+
+18 a 24 anos
+
+02
+
+25 a 34 anos
+
+03
+
+APÓS 1971
+
+ATÉ 1971
+
+35 a 44 anos
+
+04
+
+1º GRAU/Fundamental I
+
+PRIMÁRIO
+
+45 a 54 anos
+
+05
+
+Pré-escola (ou 1º ano)
+
+Pré-escola
+
+03
+
+55 a 64 anos
+
+06
+
+1ª série (ou 2º ano)
+
+1ª série
+
+04
+
+65 anos ou mais
+
+07
+
+2ª série (ou 3º ano)
+
+2ª série
+
+05
+
+Trabalha (Ocupado)
+
+01
+
+3ª série (ou 4º ano)
+
+3ª série
+
+06
+
+Não trabalha (Não ocupado)
+
+02
+
+4ª série (ou 5º ano)
+
+4ª ou 5ª série
+
+07
+
+APÓS 1971
+
+ATÉ 1971
+
+1º GRAU/Fundamental II
+
+GINÁSIO
+
+5ª série (ou 6º ano)
+
+1ª série
+
+08
+
+6ª série (ou 7º ano)
+
+2ª série
+
+09
+
+7ª série (ou 8º ano)
+
+3ª série
+
+10
+
+8ª série (ou 9º ano)
+
+4ª série
+
+11
+
+ENSINO FUNDAMENTAL
+
+ENSINO MÉDIO
+APÓS 1971
+
+ATÉ 1971
+
+2º GRAU/Ensino Médio
+
+COLEGIAL
+
+1ª série
+
+1ª série
+
+12
+
+2ª série
+
+2ª série
+
+13
+
+3ª série
+
+3ª série
+
+14
+
+SUPERIOR
+Superior Incompleto
+Superior completo
+
+15
+16
+
+ENTREVISTADOR, ATENÇÃO: Na coluna ‘Após 1971’ tem duas opções:
+série (correspondente ao sistema antigo) ou ano (correspondente ao atual
+sistema, implementado entre 2006 e 2010). Verificar com o respondente se
+a série concluída corresponde ao antigo ou novo sistema.
+
+REGIÃO
+
+CEP |__||__||__||__||__|-|__||__||__|
+
+DADOS DE CLASSIFICAÇÃO ECONÔMICA – CRITÉRIO BRASIL
+C1) Estes são alguns itens do domicílio para efeito de
+classificação econômica. Todos os itens eletroeletrônicos
+que vou citar devem estar funcionando, incluindo os que
+estão guardados. Caso não estejam funcionando,
+considerem apenas se tiver intenção de consertar ou repor
+nos próximos seis meses.
+
+TEM
+(Quantidade)
+Posse
+de
+itens
+
+Não
+tem
+
+Automóvel
+de Passeio
+
+Quanti
+dade
+
+1
+
+2
+
+3
+
+4 ou
++
+
+0
+
+3
+
+5
+
+8
+
+11
+
+|___|
+
+No domicílio tem… (LEIA CADA ITEM)
+Quantidade de automóveis de passeio exclusivamente
+para uso particular
+Quantidade de empregados mensalistas, considerando
+apenas os que trabalham pelo menos cinco dias por
+semana
+Quantidade de máquinas de lavar roupa, excluindo
+tanquinho
+
+Empregados
+Mensalistas
+
+0
+
+3
+
+7
+
+10
+
+13
+
+|___|
+
+Máquina de
+Lavar
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de banheiros
+
+Banheiros
+
+0
+
+3
+
+7
+
+10
+
+14
+
+|___|
+
+DVD
+
+0
+
+1
+
+3
+
+4
+
+6
+
+|___|
+
+Quantidade de geladeiras
+
+Geladeira
+
+0
+
+2
+
+3
+
+5
+
+5
+
+|___|
+
+Quantidade de freezers independentes ou parte da
+geladeira duplex
+
+Freezers
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de microcomputadores, considerando
+computadores de mesa, laptops, notebooks e netbooks e
+desconsiderando tablets, palms ou smartphones
+
+Microcomp
+utadores
+
+0
+
+3
+
+6
+
+8
+
+11
+
+|___|
+
+Lava-louça
+
+0
+
+3
+
+6
+
+6
+
+6
+
+|___|
+
+Microondas
+
+0
+
+2
+
+4
+
+4
+
+4
+
+|___|
+
+Motocicleta
+
+0
+
+1
+
+3
+
+3
+
+3
+
+|___|
+
+Secadora
+de Roupas
+
+0
+
+2
+
+2
+
+2
+
+2
+
+|___|
+
+DVD, incluindo qualquer dispositivo que leia DVD e
+desconsiderando DVD de automóvel
+
+Quantidade de lavadora de louças
+Quantidade de fornos de micro-ondas, incluindo os
+aparelhos com dupla função (de micro-ondas e forno
+elétrico)
+Quantidade de motocicletas, desconsiderando as usadas
+exclusivamente para uso profissional.
+Quantidade de máquinas secadoras de roupas,
+considerando lava-e-seca.
+
+C2) A água utilizada nesse domicílio é proveniente de:
+PONTUAÇÃO
+A) Rede Geral de distribuição
+
+4
+
+B) Poço ou nascente
+
+0
+
+C) Outro meio
+
+0
+
+C3) Considerando o trecho da rua do seu domicílio, você diria que a rua é:
+Condição da rua do domicílio
+
+PONTUAÇÃO
+
+A) Asfaltada/Pavimentada
+
+2
+
+B) Terra/Cascalho
+
+0
+
+C4) Qual é o grau de instrução do chefe da família? Considerar o último ano cursado e concluído.
+(CONSIDERE COMO CHEFE DA FAMÍLIA A PESSOA QUE CONTRIBUI COM A MAIOR PARTE DA
+RENDA DO DOMICÍLIO).
+Nomenclatura atual
+
+Chefe da
+Família
+PONTOS
+( )
+NOVO (CCEB 2015)
+
+Analfabeto/ Fundamental I incompleto
+
+0
+
+Fundamental I completo/Fundamental
+II incompleto
+
+1
+
+Fundamental completo/ Médio
+incompleto
+
+2
+
+Médio completo/ Superior incompleto
+
+4
+
+Superior completo
+
+7
+
+Nomenclatura antiga
+
+Analfabeto/ Primário incompleto
+(antigo Primário incompleto)
+Primário completo/ Gin.
+Incompleto (antigo Primário
+completo/antigo Ginasial
+incompleto)
+Ginasial completo/ Col.
+Incompleto (antigo Ginasial
+completo/antigo Colegial
+incompleto)
+Colegial completo/ Sup.
+Incompleto (antigo Colegial
+completo/Superior incompleto)
+Superior completo
+
+CLASSE SOCIAL
+TOTAL DE
+PONTOS:
+
+|__|__|
+
+A (45 a 100 pontos)
+B1 (38 a 44 pontos)
+B2 (29 a 37 pontos)
+C1 (23 a 28 pontos)
+C2 (17 a 22 pontos)
+DE (0 a 16 pontos)
+
+ENTREVISTADOR: NÃO É
+NECESSÁRIO FAZER A
+SOMA DO CRITÉRIO
+BRASIL
+
+BLOCO 1. BEM-ESTAR E QUALIDADE DE VIDA
+### PARA TODOS ###
+Para começar, vamos falar de assuntos relacionados ao bem-estar, à qualidade de vida das pessoas
+na cidade de São Paulo...
+P01) [CARTELA 01] Numa escala de 1 a 10, em que 1 significa que você está totalmente INSATISFEITO(A),
+e 10 significa que você está totalmente SATISFEITO(A), qual o seu grau de satisfação em relação a sua
+qualidade de vida na cidade de São Paulo? (RU PREENCHA COM DOIS DÍGITOS)
+PROGRAMAÇÃO1: ACEITAR DOIS DIGITOS APENAS.
+PROGRAMAÇÃO2: ACEITAR SOMENTE NOTAS DE 01 A 10.
+NOTAS DE 01 A 10:
+
+|____|____|
+
+98( ) Não sei
+99( ) Não respondeu
+P02) Considerando os últimos 12 meses, você diria que a sua qualidade de vida: (LEIA ALTERNATIVAS –
+NÃO LEIA ‘NÃO SEI’ E ‘NÃO RESPONDEU’ – RU)
+01(
+02(
+03(
+04(
+05(
+
+) Melhorou muito,
+) Melhorou um pouco,
+) Ficou estável,
+) Piorou um pouco, ou
+) Piorou muito?
+
+98( ) Não sei
+99( ) Não respondeu
+
+P03) Você diria que sente orgulho ou não sente orgulho de morar na cidade de São Paulo? (RU)
+SENTE ORGULHO: “Muito ou um pouco?”
+1( ) Sente muito orgulho
+2( ) Sente um pouco de orgulho
+3( ) Não sente orgulho
+
+8( ) Não sei
+9( ) Não respondeu
+
+P04) Gostaria de saber se, caso pudesse, você sairia de São Paulo para viver em outra cidade, ou não sairia
+de São Paulo? (RU)
+01( ) Sairia
+02( ) Não sairia
+99( ) Não respondeu
+P05) [CARTELA 02] O que você mais gosta na cidade de São Paulo? (RU)
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS.
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+
+) Agitação/ Correria
+) Diversidade de serviços
+) Diversidade de pessoas
+) Gastronomia
+) Possibilidade de ascensão
+) Diversidade etno-cultural
+) Consumo
+
+08(
+09(
+10(
+11(
+12(
+13(
+
+) Acesso a bens e serviços
+) Oportunidades
+) Acesso a serviços de saúde
+) Mercado de Trabalho
+) Lazer/ Diversão/ Entretenimento
+) Acesso à cultura
+
+98( ) Não sei
+99( ) Não respondeu
+
+P06) [CARTELA 03] E o que você menos gosta, aquilo que mais te incomoda? (RU)
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS.
+PROGRAMAÇÃO2: NÃO ACEITAR CÓDIGOS 01, 03 E 07 SE MENCIONADOS EM P.05
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+
+) Agitação/ Correria
+) Trânsito
+) Diversidade de pessoas
+) Violência
+) Desigualdade/ Injustiça Social
+) Poluição
+) Consumo
+
+08(
+09(
+10(
+11(
+12(
+13(
+
+) Tempo de Locomoção
+) Criminalidade
+) Preconceito/ Intolerância
+) Trabalho em excesso
+) Competitividade
+) Corrupção
+
+98( ) Não sei
+99( ) Não respondeu
+
+P07) [CARTELA 04] Qual destes sentimentos mais se aproxima do seu sentimento em relação a CIDADE DE
+SÃO PAULO? E em segundo lugar? (ATÉ DUAS OPÇÕES - NÃO DEIXE ESPAÇOS EM BRANCO, CASO
+DEIXE DE CITAR, PREENCHA COM “NÃO RESPONDEU”)
+1o LUGAR |___|___|
+
+2o LUGAR |___|___|
+
+PROGRAMAÇÃO1: A RESPOSTA DADA NO 1º LUGAR NÃO DEVE APARECER NA SEGUNDA OPÇÃO.
+PROGRAMAÇÃO2: CASO O ENTREVISTADO MENCIONE “NENHUMA DESTAS/OUTRAS”, “NÃO SEI”
+OU “NÃO RESPONDEU” EM QUALQUER UMA DAS OPÇÕES, PULAR PARA A PRÓXIMA PERGUNTA.
+(01) Admiração
+(02) Orgulho
+(03) Esperança
+(04) Gratidão
+(05) Raiva
+(06) Simpatia
+(07) Desconfiança
+(08) Egoísmo
+
+(97) Nenhuma destas/ Outras
+(98) Não sei
+(99) Não respondeu
+
+(09) Decepção
+(10) Vergonha
+(11) Frustração
+(12) Mágoa
+(13) Amor
+(14) Antipatia
+(15) Confiança
+(16) Generosidade
+
+P08) [CARTELA 05] Pensando agora no bairro, na comunidade onde você mora, gostaria de saber a sua
+opinião sobre alguns aspectos. Numa escala de 1 a 10, em que 1 significa “não me sinto incluído no
+bairro/comunidade onde moro” e 10 significa “sinto-me incluído no bairro/comunidade onde moro”, onde você
+se situaria? (RU)
+“Não me sinto incluído no
+bairro/comunidade onde moro”
+01( )
+02( )
+03( )
+04( )
+98( ) Não sei
+
+05( )
+
+06( )
+
+07( )
+
+“Sinto-me incluído no
+bairro/comunidade onde moro”
+08( )
+09( )
+10( )
+
+99( ) Não respondeu
+
+P09) [CARTELA 06] Pensando ainda no bairro, na comunidade onde você mora, gostaria de saber se você
+gosta ou não gosta dele. Numa escala de 1 a 10, em que 1 significa “não gosto do meu bairro” e 10 significa
+“gosto muito do meu bairro”, onde você se situaria? (RU)
+“Não gosto do
+meu bairro”
+01( )
+
+02( )
+
+98( ) Não sei
+
+“Gosto muito do meu
+bairro”
+03( )
+
+04( )
+
+05( )
+
+06( )
+
+99( ) Não respondeu
+
+07( )
+
+08( )
+
+09( )
+
+10( )
+
+BLOCO 2. CONFIANÇA NAS INSTITUIÇÕES E AVALIAÇÃO ADMINISTRATIVA
+P10) De maneira geral, você diria que confia ou não confia em cada uma destas instituições: (LEIA AS
+OPÇÕES - MARQUE A OPÇÃO CORRESPONDENTE – RU POR ITEM - FAÇA RODÍZIO)
+CÓD.:
+
+01 – CONFIA
+02 – NÃO CONFIA
+
+98 - NÃO SEI
+99 - NÃO RESPONDEU
+
+a) |____|____| Prefeitura de São Paulo
+b) |____|____| Câmara Municipal de São Paulo
+c) |____|____| Ministério Público
+d) |____|____| Poder Judiciário
+e) |____|____| Tribunal de Contas do Município
+f) |____|____| Metrô
+g) |____|____| SPTrans (empresas de ônibus)
+h) |____|____| Subprefeituras
+i) |____|____| Conselho Tutelar da Criança e do Adolescente
+j) |____|____| Guarda Municipal
+k) |____|____| Polícia Militar
+l) |____|____| SABESP
+m) |____|____| CET
+P11) [CARTELA 07] Qual destas instituições você acredita que está mais contribuindo para melhorar a sua
+qualidade de vida? E em segundo lugar? E em terceiro? (ATÉ TRÊS OPÇÕES – CASO DEIXE DE CITAR
+ALGUMA OPÇÃO, MARQUE “NÃO RESPONDEU”)
+PROGRAMAÇÃO1: A RESPOSTA DADA NO 1º LUGAR NÃO DEVERÁ APARECER NA SEGUNDA, NEM
+NA TERCEIRA OPÇÃO E A RESPOSTA DADA NO 2º LUGAR NÃO DEVERÁ APARECER NO 3º LUGAR.
+PROGRAMAÇÃO2: CASO O ENTREVISTADO MENCIONE “NENHUMA DESTAS”, “NÃO SEI” OU “NÃO
+RESPONDEU” EM QUALQUER UMA DAS OPÇÕES, PULAR PARA A PRÓXIMA PERGUNTA.
+PROGRAMAÇÃO3: PARA O WEB, RODIZIAR ITENS.
+1º LUGAR: |___|___|
+
+2º LUGAR: |___|___|
+
+(01) Governo Federal
+(02) Governo Estadual
+(03) Prefeitura de São Paulo
+(04) Câmara Municipal de São Paulo
+(05) Ministério Público
+(06) Poder Judiciário
+(07) Subprefeituras
+(08) Conselhos Municipais
+(09) Partidos Políticos
+(10) Meios de comunicação
+(11) Sindicatos de Trabalhadores
+(12) Universidades
+(13) Igreja
+(14) ONGs (Organizações Não Governamentais) que trabalham em seu bairro
+(15) Associações de Bairro
+(16) Empresas Públicas
+(17) Empresas Privadas/ empresários
+(18) Prefeito de São Paulo
+(97) Nenhuma destas
+(98) Não sei
+(99) Não respondeu
+
+3º LUGAR: |___|___|
+
+Agora, falando um pouco sobre a administração municipal…
+P12) De uma maneira geral, como você avalia a atual administração municipal? Você acha que ela está sendo:
+(LEIA AS OPÇÕES – NÃO LEIA “NÃO SEI” E “NÃO RESPONDEU” – RU)
+01( ) Ótima,
+02( ) Boa,
+03( ) Regular,
+
+04( ) Ruim, ou
+05( ) Péssima?
+
+98( ) Não sei
+99( ) Não respondeu
+
+P13) E como você avalia a atuação da Subprefeitura da sua região? Você acha que ela está sendo: (LEIA AS
+OPÇÕES – NÃO LEIA “NÃO SEI” E “NÃO RESPONDEU” – RU)
+01( ) Ótima,
+02( ) Boa,
+03( ) Regular,
+
+04( ) Ruim, ou
+05( ) Péssima?
+
+98( ) Não sei
+99( ) Não respondeu
+
+P14) As subprefeituras são órgãos administrativos que representam a prefeitura em todas as regiões da cidade.
+Você diria que conhece bem, conhece um pouco ou não conhece as funções desempenhadas pelas
+Subprefeituras do município de São Paulo? (RU)
+01( ) Conhece bem
+02( ) Conhece um pouco
+
+03( ) Não conhece
+99( ) Não respondeu
+
+P15) De uma maneira geral, como você avalia a atuação da Câmara de Vereadores de São Paulo? Você acha
+que ela está sendo: (LEIA AS OPÇÕES – NÃO LEIA “NÃO SEI” E “NÃO RESPONDEU” – RU)
+01( ) Ótima,
+02( ) Boa,
+03( ) Regular,
+
+04( ) Ruim, ou
+05( ) Péssima?
+
+98( ) Não sei
+99( ) Não respondeu
+
+P16) Nestas últimas eleições, a Câmara de Vereadores de São Paulo, teve um aumento no número de
+vereadoras mulheres, negras e seus primeiros vereadores transexuais. Na sua opinião, essa diversidade
+melhora muito, melhora um pouco, piora um pouco, piora muito ou não afeta a qualidade da política? (RU)
+01(
+02(
+03(
+04(
+05(
+98(
+99(
+
+) Melhora muito
+) Melhora um pouco
+) Não afeta
+) Piora um pouco
+) Piora muito
+) Não sei
+) Não respondeu
+
+P17) [CARTELA 08] Quais destas opções você mais usaria para participar e se envolver nas atividades da
+Câmara de Vereadores da cidade de São Paulo? (RM)
+PROGRAMAÇÃO: ITEM 06 É DE RESPOSTAS ÚNICA
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS 01 A 05.
+01(
+02(
+03(
+04(
+05(
+06(
+
+) Comunicação por meio de redes sociais - Facebook, Twitter e outras
+) Comunicação por aplicativos de mensagem como Whatsapp, Telegram e outros
+) Comparecendo a Reuniões periódicas com a população dos bairros (presenciais ou virtuais)
+) Comparecendo a eventos da Câmara (presenciais ou virtuais)
+) Comparecendo a votações na Câmara (presenciais ou virtuais)
+) Não acredita que sejam necessárias ações neste sentido
+
+98( ) Não sei
+99( ) Não respondeu
+P18) Você se lembra em quem votou para vereador na eleição de 2020? (RU)
+01 ( ) Sim
+02 ( ) Não
+99 ( ) Não respondeu
+
+Falando agora da vida política da cidade de modo geral...
+P19) Você diria que tem muita vontade, alguma vontade ou nenhuma vontade de participar da vida política
+da cidade de São Paulo?
+01 (
+02 (
+03 (
+98 (
+99 (
+
+) Muita vontade
+) Alguma vontade
+) Nenhuma vontade
+) Não sei
+) Não respondeu
+
+P20) [CARTELA 09] Existem várias formas de participar da vida política de uma cidade. Você costuma praticar
+alguma das ações desta lista? (RM) (ESSA PERGUNTA ACEITA MAIS DE UMA RESPOSTA
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS
+01( ) Compartilhar notícias sobre o município por aplicativos de mensagens (Ex. WhatsApp, Telegram, etc.)
+02( ) Compartilhar notícias sobre o município pelas redes sociais (Ex. Facebook, Instagram, Twitter, etc.)
+03( ) Participar de manifestações, protestos ou passeatas de rua
+04( ) Assinar petições ou abaixo-assinados
+05( ) Participar de audiências públicas presenciais
+06( ) Fazer parte de algum Conselho Participativo Municipal
+07( ) Participar de congressos, palestras ou debates que discutam a cidade
+08( ) Participar de associação comunitária, de moradores ou sociedade de amigos do bairro
+09( ) Participar de trabalhos voluntários direcionados para pessoas carentes, em situação de rua,
+usuários de drogas, etc.
+10( ) Participar de associações ou ONGs que atuam em áreas como saúde, educação, moradia, meio
+ambiente, cultura, sociedade, etc.
+11( ) Fazer parte de uma associação ou movimento estudantil
+12( ) Fazer parte de uma associação ou movimento social
+13( ) Fazer parte de algum grupo artístico ou cultural
+97( ) Não participa da vida política do município
+99( ) Não respondeu
+P21) Diga se você concorda ou discorda com as seguintes frases: (RU POR ITEM)
+SE CONCORDA OU DISCORDA: Totalmente ou em parte?
+PROGRAMAÇÃO:
+RODIZIAR FRASES
+
+Concordo
+totalmente
+
+Concordo
+em parte
+
+Discordo
+em parte
+
+Discordo
+totalmente
+
+Não
+sei
+
+Não
+respondeu
+
+02
+
+Nem
+concordo
+nem
+discordo
+03
+
+A. Eu fico mais
+interessado(a) em
+participar da vida
+política da cidade
+em épocas de
+eleição
+B. Em momentos de
+renovação do
+quadro de
+vereadores,
+prefeito e
+secretários, me
+sinto mais
+animado(a) em me
+envolver na vida
+política da cidade
+
+01
+
+04
+
+05
+
+98
+
+99
+
+01
+
+02
+
+03
+
+04
+
+05
+
+98
+
+99
+
+Mudando de assunto...
+P22) [CARTELA 10] Na sua opinião, quais destas características um(a) PREFEITO(A) deve ter? Qual mais?
+Mais alguma? (RM) (ESSA PERGUNTA ACEITA MAIS DE UMA RESPOSTA)
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+08(
+09(
+10(
+11(
+12(
+13(
+14(
+15(
+
+) Ter uma trajetória na política
+) Ser de um partido que eu me identifique
+) Ser novo na política
+) Preservar os valores familiares
+) Ter uma religião
+) Ser alinhado com o governo estadual
+) Ser alinhado com o governo federal
+) Ter experiência administrativa
+) Conhecer bem os problemas da cidade
+) Ter visão de futuro
+) Entender de economia e finanças
+) Saber trabalhar em equipe
+) Ser alinhado com a Câmara dos Vereadores
+) Ser trabalhador
+) Ter pulso firme
+
+98( ) Não sei
+99( ) Não respondeu
+P23) [CARTELA 11] E na sua opinião, quais destas características um(a) VEREADOR(A) deve ter? Qual
+mais? Mais alguma? (RM) (ESSA PERGUNTA ACEITA MAIS DE UMA RESPOSTA)
+PROGRAMAÇÃO1: PARA O WEB, RODIZIAR ITENS
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+08(
+09(
+10(
+11(
+12(
+13(
+14(
+15(
+16(
+17(
+
+) Ter uma trajetória na política
+) Ser de um partido que eu me identifique
+) Ser novo na política
+) Preservar os valores familiares
+) Ter uma religião
+) Ser alinhado com o governo estadual
+) Ser alinhado com o governo federal
+) Ter experiência administrativa
+) Conhecer bem os problemas da região onde eu moro
+) Ser da região onde eu moro
+) Ter visão de futuro
+) Entender de economia e finanças
+) Saber trabalhar em equipe
+) Ser alinhado com a administração municipal
+) Ser trabalhador
+) Ter pulso firme
+) Ter uma área de atuação específica (moradia, mulheres, questões raciais, saúde, educação, etc)
+
+98( ) Não sei
+99( ) Não respondeu
+
+P.PCD) Você, alguém do seu domicílio ou alguém que você convive ou se relaciona possui algum tipo de
+deficiência, seja ela: física, sensorial, intelectual ou mental? (LEIA CADA FRASE E MARQUE A OPÇÃO
+CORRESPONDENTE – NÃO LEIA “NÃO SEI” E “NÃO RESPONDEU”) (RM)
+01 Sim, eu mesmo
+02 Sim, alguém do domicílio
+03 Sim, alguém que convive ou se relaciona
+04 Não
+(98) Não sei
+P.ORIENT) Agora gostaria que você indicasse qual é a sua orientação sexual: (DEVERÁ MARCAR SOMENTE
+UMA OPÇÃO)
+01( ) Heterossexual (interesse sexual ou amoroso por indivíduos do sexo oposto que o meu)
+02( ) Homossexual (interesse sexual ou amoroso por indivíduos do mesmo sexo que o meu)
+03( ) Bissexual (interesse sexual ou amoroso por indivíduos de ambos os sexos)
+04( ) Assexual (ausência de interesse sexual ou amoroso por outros indivíduos)
+05( ) Pansexual (interesse sexual ou amoroso entre indivíduos, independentemente do sexo ou identidade
+de gênero, ou por todos os gêneros)
+98( ) Não sei
+99( ) Prefiro não responder
+P.IDENT) Qual a sua identidade de gênero? (DEVERÁ MARCAR SOMENTE UMA OPÇÃO)
+01
+02
+03
+04
+05
+96
+98
+99
+
+(
+(
+(
+(
+(
+(
+(
+(
+
+)
+)
+)
+)
+)
+)
+)
+)
+
+Mulher cisgênero (nasceu mulher e se identifica como mulher)
+Homem cisgênero (nasceu homem e se identifica como homem)
+Homem Trans (nasceu mulher e se identifica como homem)
+Mulher Trans (nasceu homem e se identifica como mulher)
+Travesti (aquele ou aquela que se veste como o gênero oposto)
+Outros
+Não sei
+Prefiro não responder
+
+P.RAÇA) Agora, vou fazer uma pergunta exatamente como é feita pelo IBGE para classificação da população
+brasileira. A sua cor ou raça é: (LEIA TODAS AS OPÇÕES – RU)
+01( ) Branca
+02( ) Preta
+03( ) Parda
+
+04( ) Amarela
+05( ) Indígena
+
+P.RELIGIÃO) Qual é a sua religião? (ESPONTÂNEA - RU)
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+08(
+09(
+10(
+11(
+
+) Católica Apostólica Romana
+) Assembleia de Deus
+) Batista/ Metodista/ Presbiteriana
+) Universal do Reino de Deus
+) Deus é Amor
+) Evangelho Quadrangular
+) Igreja Internacional da Graça
+) Renascer em Cristo
+) Sara nossa terra
+) Outras Evangélicas específicas
+) Evangélica - NÃO SEI especificar
+
+12(
+13(
+14(
+15(
+16(
+17(
+18(
+
+) Adventista
+) Testemunha de Jeová
+) Judaica
+) Espírita/ Kardecista
+) Afro-Brasileiras (Umbanda, Candomblé, etc)
+) Orientais (Budismo, Islamismo, etc)
+) Outras religiões (SEM ESPECIFICAR)
+
+19( ) É religioso mas não segue nenhuma/ Agnóstico
+20( ) Ateu, não tem religião
+99( ) Não respondeu
+
+** CARTELA DE RENDA ***
+REND1) Em qual destas faixas está a sua renda individual do mês passado? (RU)
+REND2) E em qual destas faixas está a renda total da sua família no mês passado, somando as rendas de
+todas as pessoas que moram com você, inclusive a sua? (RU por coluna)
+
+Mais de R$ 20.900,00/ Mais de 20 SM
+Mais de R$ 10.450,00 até R$ 20.900,00 / Mais de 10 a 20 SM
+Mais de R$ 5.225,00 até R$ 10.450,00 / Mais de 5 a 10 SM
+Mais de R$ 2.090,00 até R$ 5.225,00 / Mais de 2 a 5 SM
+Mais de R$ 1.045,00 até R$ 2.090,00 / Mais de 1 a 2 SM
+Até R$ 1.045,00 / Até 1 salário mínimo
+
+Não tem rendimento pessoal
+Não respondeu
+Outro (Especificar)
+PROGRAMAÇÃO1: Esse item só deve aparecer para a
+programação Online
+
+REND 1)
+RENDA PESSOAL
+01
+02
+03
+04
+05
+06
+98
+99
+
+REND 2)
+RENDA FAMILIAR
+01
+02
+03
+04
+05
+06
+/////
+99
+
+96
+
+96
+
+AQUI ENCERRA A ENTREVISTA, COMO FALEI MEU NOME É............. E QUERO AGRADECER A SUA
+PARTICIPAÇÃO NESTA PESQUISA PARA O IBOPE INTELIGÊNCIA.
+CASO TENHA ALGUMA DÚVIDA SOBRE A NOSSA PESQUISA VOCÊ PODERÁ ENTRAR EM CONTATO
+DIRETAMENTE COM O IBOPE INTELIGÊNCIA ATRAVÉS DO TELEFONE 0800 800 5000.
+
+ESPECIFICAÇÕES TÉCNICAS DA PESQUISA
+
+OBJETIVO
+
+Levantar as percepções dos moradores da cidade de São Paulo a respeito do bem‐estar e qualidade de vida na cidade/
+confiança nas instituições e avaliação administrativa.
+
+LOCAL
+
+São Paulo ‐ SP.
+
+PERÍODO DE CAMPO
+
+De 05 de dezembro de 2020 a 04 de janeiro de 2021.
+
+UNIVERSO
+
+População internauta de 16 anos ou mais das classes ABC da área em estudo.
+
+AMOSTRA
+
+Representativa da população do universo e distribuída de maneira desproporcional nas 5 regiões da cidade de São Paulo, com o objetivo de
+permitir a leitura dos resultados por cada uma delas. Além disso, foram definidas cotas proporcionais pelas variáveis descritas no item abaixo.
+
+VARIÁVEIS PARA
+COTAS AMOSTRAIS
+
+SEXO: Masculino e Feminino.
+GRUPOS DE IDADE: 16‐24, 25‐34, 35‐44, 45‐54, 55 anos e mais.
+INSTRUÇÃO ‐ Ensino Fundamental; Ensino Médio; Superior.
+CLASSE: A, B e C.
+CONDIÇÃO DE ATIVIDADE: Ocupado; Não ocupado.
+FONTES DE DADOS PARA ELABORAÇÃO DA AMOSTRA: CENSO 2010, PNADC 2019.
+
+PONDERAÇÃO
+
+Os resultados foram ponderados para restabelecer o peso de cada região da cidade e o perfil dos respondentes.
+
+NÚMERO DE
+ENTREVISTAS
+
+Foram realizadas 800 entrevistas.
+
+MARGEM DE ERRO
+
+A margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+
+NÍVEL DE CONFIANÇA
+
+O nível de confiança utilizado é de 95%.
+
+COLETA DE DADOS
+
+Online (painel de internautas), utilizando questionário elaborado de acordo com os objetivos da pesquisa.
+
+CONTROLE DE
+QUALIDADE
+
+ Verificação dos chamados “speeders” (painelistas que respondem rápido demais a uma pesquisa, clicando em qualquer resposta da tela
+para finalizar o questionário o mais rápido possível);
+ Inserção de perguntas aleatórias não relacionadas ao tema do estudo, ou spamtrap, que tem o intuito de verificar se os respondentes
+estão ou não prestando atenção no questionário.
+
+

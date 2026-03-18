@@ -1,0 +1,1284 @@
+IPEC- INTELIGÊNCIA EM PESQUISA E
+CONSULTORIA
+
+JOB Nº 211002-C
+
+CÓDIGO
+
+INÍCIO:
+
+TÉRMINO:
+
+_____:_____
+
+_____:_____
+
+QUESTIONÁRIO:
+
+RNSP – PESQUISA TEMÁTICA 2
+
+FOLHA DE AMOSTRA: |_____|_____|_____|
+
+DISTRITO: |_____|_____|
+
+FONE REC: (
+CELULAR: (
+
+CIDADE:
+
+BAIRRO:
+01 ( )
+APARTAMENTO
+
+DIGITADOR(A):
+
+VERIFICADOR FORNECEDOR
+
+VERIFICADOR IBOPE
+
+12| 04 | 2021
+
+SETOR IBGE: |_____|_____|_____|_____|
+
+ENDEREÇO DO DOMICILIO:
+
+ENTREVISTADOR(A):
+
+__________________________
+
+800 ENTREVISTAS
+
+ZONA: |_____|_____|
+
+SETOR IPEC: |_____|_____|_____|_____|
+FONE RES: (
+)
+FONE COM: (
+)
+
+NOME DO ENTREVISTADO:
+
+RESIDE EM: ►
+
+NÚMERO DO
+
+FORNECEDOR:
+
+CÓDIGO
+
+02 ( )
+CASA/SOBRADO EM
+CONDOMÍNIO
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+
+)
+)
+
+CEP: |___|___|___|___|___|-|___|___|___|
+03 ( )
+CASA / SOBRADO FORA DE
+CONDOMÍNIO
+CRÍTICO(A):
+REDIGITADOR(A):
+
+04 ( )
+CHÁCARA/ SÍTIO/OUTROS
+
+CÓDIGO
+
+DATA:
+
+|___|___|___|___|___|
+
+_____/_____/ 21
+DATA:
+
+CÓDIGO
+|___|___|___|___|___|
+
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+1 - Verificação inloco | acompanhamento
+2 - Verificação posterior face a face
+3 - Verificação posterior por telefone
+
+INTRODUÇÃO: BOM DIA/ BOA TARDE/ BOA NOITE. MEU NOME É ________. ESTOU REALIZANDO UMA PESQUISA PARA O IPEC - INTELIGÊNCIA
+EM PESQUISA E CONSULTORIA. INFORMO QUE SUA PARTICIPAÇÃO É VOLUNTÁRIA, SUAS RESPOSTAS SÃO CONFIDENCIAIS E PARA GARANTIA
+DA QUALIDADE DA ENTREVISTA, ELA SERÁ GRAVADA.
+GOSTARIA DE INFORMAR AINDA QUE É UMA PESQUISA SOBRE A CIDADE DE SÃO PAULO E SOLICITO SUA AUTORIZAÇÃO PARA USO E
+TRATAMENTO DE TODOS OS DADOS COLETADOS. NÓS GARANTIMOS QUE SUAS RESPOSTAS SERÃO TRATADAS DE FORMA ANÔNIMA E
+CONFIDENCIAL, DE ACORDO COM A LEI GERAL DE PROTEÇÃO DE DADOS.
+VOCÊ NOS AUTORIZA? .SIM ( ) NÃO( ) ENCERRE
+
+_____/_____/ 21
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+Erro nivel
+0
+Erro nivel
+1
+Erro nivel
+2
+Erro nivel
+3
+
+CODIGO
+CODIFICADOR
+|____|____|____|
+
+WEB INTRODUÇÃO: DIRECIONAR PARA PÁGINA PADRÃO DO PAINEL/FORNECEDOR.
+FILTRO 1) Você trabalha em empresa de publicidade, empresa de pesquisa, em veículos de informação como rádio, emissora de televisão, empresa
+jornalística ou editoras?
+01( ) Sim  AGRADEÇA E ENCERRE 02( ) Não  CONTINUE
+FILTRO 2) Há quanto tempo você mora na cidade de São Paulo?
+|_____|_____| anos e |_____|_____| meses  MENOS QUE 2 ANOS, AGRADEÇA E ENCERRE
+
+ATENÇÃO ENTREVISTADOR: ENTREVISTAR SOMENTE ENTREVISTAR SOMENTE PESSOAS QUE MORAM HÁ MAIS DE 02 ANOS EM SÃO PAULO
+SEXO
+
+ALFABETIZAÇÃO) Sabe ler e escrever um bilhete simples? (RU)
+
+OCUPAÇÃO
+
+Masculino
+
+01
+
+Sim ► QUESTIONE A ESCOLARIDADE
+
+01
+
+Feminino
+
+02
+
+Não ► ANOTE CÓD. 01 NO QUADRO ABAIXO
+
+02
+
+ESCOLARIDADE) Até que ano da Escola você cursou e concluiu? (RU)
+Analfabeto
+01
+
+IDADE
+|_____|_____| anos
+
+Sabe ler/escrever, mas não cursou escola
+
+02
+
+P.OCUP) Você trabalha ou exerce alguma
+atividade remunerada atualmente, mesmo
+que não registrado ou informal?
+(Entrevistador: Ocupado = trabalha/
+Não ocupado = não trabalha)
+
+16 e 17 anos
+
+01
+
+18 a 24 anos
+
+02
+
+25 a 34 anos
+
+03
+
+APÓS 1971
+
+ATÉ 1971
+
+35 a 44 anos
+
+04
+
+1º GRAU/Fundamental I
+
+PRIMÁRIO
+
+45 a 54 anos
+
+05
+
+Pré-escola (ou 1º ano)
+
+Pré-escola
+
+03
+
+55 a 64 anos
+
+06
+
+1ª série (ou 2º ano)
+
+1ª série
+
+04
+
+65 anos ou mais
+
+07
+
+2ª série (ou 3º ano)
+
+2ª série
+
+05
+
+Trabalha (Ocupado)
+
+01
+
+3ª série (ou 4º ano)
+
+3ª série
+
+06
+
+Não trabalha (Não ocupado)
+
+02
+
+4ª série (ou 5º ano)
+
+4ª ou 5ª série
+
+07
+
+APÓS 1971
+
+ATÉ 1971
+
+1º GRAU/Fundamental II
+
+GINÁSIO
+
+5ª série (ou 6º ano)
+
+1ª série
+
+08
+
+6ª série (ou 7º ano)
+
+2ª série
+
+09
+
+7ª série (ou 8º ano)
+
+3ª série
+
+10
+
+8ª série (ou 9º ano)
+
+4ª série
+
+11
+
+ENSINO FUNDAMENTAL
+
+REGIÃO
+
+CEP |__||__||__||__||__|-|__||__||__|
+
+ENSINO MÉDIO
+APÓS 1971
+
+ATÉ 1971
+
+2º GRAU/Ensino Médio
+
+COLEGIAL
+
+1ª série
+
+1ª série
+
+12
+
+2ª série
+
+2ª série
+
+13
+
+3ª série
+
+3ª série
+
+14
+
+SUPERIOR
+Superior Incompleto
+Superior completo
+
+15
+16
+
+ENTREVISTADOR, ATENÇÃO: Na coluna ‘Após 1971’ tem duas opções:
+série (correspondente ao sistema antigo) ou ano (correspondente ao atual
+sistema, implementado entre 2006 e 2010). Verificar com o respondente se
+a série concluída corresponde ao antigo ou novo sistema.
+
+PROGRAMAÇÃO1: INCLUIR CONSISTÊNCIA, O TEMPO QUE MORA NA CIDADE EM FILTRO 2 NÃO
+PODE SER MAIOR QUE IDADE. EM CASO DE INCONSISTÊNCIA APARECER MENSAGEM:
+“ATENÇÃO: POR FAVOR, SUA IDADE NÃO PODE SER MENOR QUE O TEMPO QUE MORA EM SÃO
+PAULO. Por favor, confira!
+1( ) Corrigir tempo que mora em São Paulo
+2( ) Corrigir idade”
+
+### PARA TODOS ###
+DADOS DE CLASSIFICAÇÃO ECONÔMICA – CRITÉRIO BRASIL
+C1) Estes são alguns itens do domicílio para efeito de
+classificação econômica. Todos os itens eletroeletrônicos
+que vou citar devem estar funcionando, incluindo os que
+estão guardados. Caso não estejam funcionando,
+considerem apenas se tiver intenção de consertar ou repor
+nos próximos seis meses.
+
+TEM
+(Quantidade)
+Posse
+de
+itens
+
+Não
+tem
+
+Automóvel
+de Passeio
+
+Quanti
+dade
+
+1
+
+2
+
+3
+
+4 ou
++
+
+0
+
+3
+
+5
+
+8
+
+11
+
+|___|
+
+No domicílio tem… (LEIA CADA ITEM)
+Quantidade de automóveis de passeio exclusivamente
+para uso particular
+Quantidade de empregados mensalistas, considerando
+apenas os que trabalham pelo menos cinco dias por
+semana
+Quantidade de máquinas de lavar roupa, excluindo
+tanquinho
+
+Empregados
+Mensalistas
+
+0
+
+3
+
+7
+
+10
+
+13
+
+|___|
+
+Máquina de
+Lavar
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de banheiros
+
+Banheiros
+
+0
+
+3
+
+7
+
+10
+
+14
+
+|___|
+
+DVD
+
+0
+
+1
+
+3
+
+4
+
+6
+
+|___|
+
+Quantidade de geladeiras
+
+Geladeira
+
+0
+
+2
+
+3
+
+5
+
+5
+
+|___|
+
+Quantidade de freezers independentes ou parte da
+geladeira duplex
+
+Freezers
+
+0
+
+2
+
+4
+
+6
+
+6
+
+|___|
+
+Quantidade de microcomputadores, considerando
+computadores de mesa, laptops, notebooks e netbooks e
+desconsiderando tablets, palms ou smartphones
+
+Microcomp
+utadores
+
+0
+
+3
+
+6
+
+8
+
+11
+
+|___|
+
+Lava-louça
+
+0
+
+3
+
+6
+
+6
+
+6
+
+|___|
+
+Microondas
+
+0
+
+2
+
+4
+
+4
+
+4
+
+|___|
+
+Motocicleta
+
+0
+
+1
+
+3
+
+3
+
+3
+
+|___|
+
+Secadora
+de Roupas
+
+0
+
+2
+
+2
+
+2
+
+2
+
+|___|
+
+DVD, incluindo qualquer dispositivo que leia DVD e
+desconsiderando DVD de automóvel
+
+Quantidade de lavadora de louças
+Quantidade de fornos de micro-ondas, incluindo os
+aparelhos com dupla função (de micro-ondas e forno
+elétrico)
+Quantidade de motocicletas, desconsiderando as usadas
+exclusivamente para uso profissional.
+Quantidade de máquinas secadoras de roupas,
+considerando lava-e-seca.
+C2) A água utilizada nesse domicílio é proveniente
+de:
+PONTUAÇÃO
+A) Rede Geral de distribuição
+
+4
+
+B) Poço ou nascente
+
+0
+
+C) Outro meio
+
+0
+
+C3) Considerando o trecho da rua do seu
+domicílio, você diria que a rua é:
+Condição da rua do
+domicílio
+
+PONTUAÇÃO
+
+A) Asfaltada/Pavimentada
+
+2
+
+B) Terra/Cascalho
+
+0
+
+C4) Qual é o grau de instrução do chefe da família? Considerar o último ano cursado e concluído.
+(CONSIDERE COMO CHEFE DA FAMÍLIA A PESSOA QUE CONTRIBUI COM A MAIOR PARTE DA
+RENDA DO DOMICÍLIO).
+Nomenclatura atual
+
+Chefe da
+Família
+PONTOS
+( )
+NOVO (CCEB 2015)
+
+Analfabeto/ Fundamental I incompleto
+
+0
+
+Fundamental I completo/Fundamental
+II incompleto
+
+1
+
+Fundamental completo/ Médio
+incompleto
+
+2
+
+Médio completo/ Superior incompleto
+
+4
+
+Superior completo
+
+7
+
+Nomenclatura antiga
+
+Analfabeto/ Primário incompleto
+(antigo Primário incompleto)
+Primário completo/ Gin.
+Incompleto (antigo Primário
+completo/antigo Ginasial
+incompleto)
+Ginasial completo/ Col.
+Incompleto (antigo Ginasial
+completo/antigo Colegial
+incompleto)
+Colegial completo/ Sup.
+Incompleto (antigo Colegial
+completo/Superior incompleto)
+Superior completo
+
+CLASSE SOCIAL
+TOTAL DE
+PONTOS:
+
+|__|__|
+
+A (45 a 100 pontos)
+B1 (38 a 44 pontos)
+B2 (29 a 37 pontos)
+C1 (23 a 28 pontos)
+C2 (17 a 22 pontos)
+DE (0 a 16 pontos)
+
+ENTREVISTADOR: NÃO É
+NECESSÁRIO FAZER A
+SOMA DO CRITÉRIO
+BRASIL
+
+BLOCO MEIO AMBIENTE / MUDANÇAS CLIMÁTICAS
+Falando agora sobre o meio ambiente e as mudanças climáticas…
+### PARA TODOS ###
+P01) Recentemente, tem se falado bastante sobre aquecimento global, ou seja, sobre o aumento da
+temperatura média mundial nos últimos 150 anos, que contribui para causar mudanças no clima do planeta.
+Considerando tudo o que você já leu, viu ou ouviu falar, o quanto você diria que conhece sobre o aquecimento
+global ou mudanças climáticas? (RU – LEIA AS ALTERNATIVAS)
+01 ( ) Muito
+02 ( ) Pouco
+03 ( ) Nada
+P02) Na sua opinião, o quanto você acha importante a questão do aquecimento global ou das mudanças
+climáticas? (RU – LEIA AS ALTERNATIVAS)
+01 ( ) Muito importante
+02 ( ) Pouco importante
+03 ( ) Nada importante
+98 ( ) Não sei
+P03) O quanto você considera que está preocupada(o) com a questão do aquecimento global ou das mudanças
+climáticas? (RU – LEIA AS ALTERNATIVAS)
+01 ( ) Muito preocupada(o)
+02 ( ) Pouco preocupada(o)
+03 ( ) Nada preocupada(o)
+98 ( ) Não sei
+Falando agora especificamente sobre os problemas ambientais da cidade de São Paulo...
+P04) [CARTELA 1] Na sua opinião, quais são os maiores problemas ambientais da cidade de São Paulo? [RM
+– ATÉ 3 OPÇÕES]
+PROGRAMAÇÃO 1: NO ONLINE RODIZIAR ITENS 01 A 09
+01 ( ) Poluição do ar
+02 ( ) Poluição sonora
+03 ( ) Abastecimento irregular de água
+04 ( ) Sistema de coleta e tratamento de esgoto
+05 ( ) Poluição dos rios
+06 ( ) Enchentes
+07 ( ) Pouca oferta de áreas verdes (praças, parques e áreas de preservação) e cobertura vegetal (arborização viária)
+08 ( ) Falta de coleta seletiva de lixo
+09 ( ) Destinação inadequada do lixo (recicláveis, não recicláveis e compostáveis)
+98 ( ) Não sabe
+99 ( ) Não respondeu
+P05) Você acredita que esses problemas ambientais são causados principalmente pela ação humana ou são
+resultados de mudanças naturais do meio ambiente? (RU)
+01 ( ) Ação humana
+02 ( ) Mudanças naturais do meio ambiente
+03 ( ) Ambos
+97 ( ) Nenhum
+98 ( ) Não sei
+
+P06) Dentre as ações humanas a seguir, o quanto você acredita que elas influenciam no surgimento,
+manutenção ou piora desses problemas ambientais? (RU POR LINHA)
+RODIZIAR FRASES
+a) Planejamento urbano
+b) Falta de fiscalização do
+lançamento de esgoto em
+córregos e rios
+c) Impermeabilização do solo, ou
+seja, a capacidade do solo
+absorver a água, por causa do
+asfalto e das construções
+d) Ocupação de áreas irregulares
+(mananciais e encostas) pela
+população
+e) Uso de automóveis particulares
+e
+combustíveis
+fósseis
+(gasolina, álcool e diesel)
+f) Falta de educação ambiental da
+população
+g) Queimadas e desmatamento
+nos
+sistemas
+naturais
+brasileiros (Amazônia, Cerrado,
+Pantanal, etc.)
+
+INFLUENCIA
+MUITO
+
+INFLUENCIA
+POUCO
+
+NÃO
+INFLUENCIA
+NADA
+
+NÃO
+SABE
+
+PREFERE
+NÃO
+RESPONDER
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+P07) [CARTELA 2] Na sua opinião, quais são as principais consequências desses problemas ambientais na
+vida e na saúde da população da cidade de São Paulo? [RM – ESCOLHA ATÉ 3 OPÇÕES]
+PROGRAMAÇÃO 1: NO ONLINE RODIZIAR ITENS 01 A 06
+01 ( ) Aumento de casos de doenças cardiorrespiratórias (asma, bronquite, pneumonia, infarto, pressão alta
+etc.)
+02 ( ) Aumento na ocorrência de doenças como dengue, zika, chikungunya, etc.
+03 ( ) Aumento na ocorrência de doenças transmitidas pela água contaminada (leptospirose, hepatite A, febre
+tifóide, diarreias bacterianas)
+04 ( ) Redução na disponibilidade de alimentos frescos e saudáveis
+05 ( ) Escassez de água limpa e tratada
+06 ( ) Aumento na ocorrência de pandemias (H1N1, Covid-19, etc.)
+98 ( ) Não sei
+P08) Qual o grau de responsabilidade de cada um desses agentes na busca de soluções para os problemas
+ambientais da cidade de São Paulo? (RU POR LINHA)
+RODIZIAR FRASES
+
+MUITA
+RESPONSABILIDADE
+
+POUCA
+RESPONSABILIDADE
+
+NENHUMA
+RESPONSABILIDADE
+
+NÃO
+SABE
+
+PREFERE
+NÃO
+RESPONDER
+
+a) Governo federal
+b) Governo estadual
+
+01
+01
+
+02
+02
+
+03
+03
+
+98
+98
+
+99
+99
+
+c) Governo municipal
+
+01
+
+02
+
+03
+
+98
+
+99
+
+d) Empresas / indústrias
+
+01
+
+02
+
+03
+
+98
+
+99
+
+e) População com maior renda
+
+01
+
+02
+
+03
+
+98
+
+99
+
+f) População de baixa renda
+g) Organizações da sociedade civil
+(ONGs)
+
+01
+
+02
+
+03
+
+98
+
+99
+
+01
+
+02
+
+03
+
+98
+
+99
+
+P09) [CARTELA 3] Na sua opinião, qual dessas políticas são mais eficientes para resolver esses problemas
+ambientais? (RM – ESCOLHA ATÉ 3 OPÇÕES]
+PROGRAMAÇÃO 1: NO ONLINE RODIZIAR ITENS 01 A 08
+01 ( ) Maior fiscalização e aplicação de multas pelo Poder Público sobre o lançamento de esgotos nos rios e
+nos córregos
+02 ( ) Maior fiscalização pelo Poder Público para evitar a instalação de famílias nas áreas de mananciais e
+encostas
+03 ( ) Campanhas para conscientização ambiental da população
+04 ( ) Planejamento urbano voltado para reduzir os problemas ambientais
+05 ( ) Despoluição dos rios e dos córregos
+06 ( ) Políticas públicas para diminuir/substituir o uso de combustíveis fósseis (etanol, gasolina e diesel)
+07 ( ) Mais investimentos em soluções de urbanismo baseadas na natureza (pisos drenantes, áreas verdes
+encharcáveis, plantio de árvores)
+08 ( ) Políticas/ações integradas desenvolvidas em conjunto por várias secretariais municipais
+98 ( ) Não sei
+P10) Na sua opinião, os problemas ambientais tem alguma relação com a pandemia causada pelo coronavírus?
+(RU)
+01 ( ) Sim
+02 ( ) Não
+98 ( ) Não sei
+P11) Agora pensando nos problemas ambientais da cidade de São Paulo, o quanto você concorda ou discorda
+de cada uma das afirmações: (RU POR LINHA)
+PROGRAMAÇÃO 1: Incluir orientação na F2F: Se concorda ou discorda: totalmente ou em parte?
+RODIZIAR FRASES
+a) Os problemas ambientais favorecem
+a existência de pandemias como a
+do coronavírus
+b) O Brasil está perdendo sua
+credibilidade internacional por sua
+atuação em relação às mudanças
+climáticas e com o aquecimento
+global.
+c) Os meus hábitos de consumos estão
+relacionados com o desmatamento.
+d) É necessário articular as políticas
+municipais, estaduais e federais para
+dar conta de enfrentar os desafios
+ambientais da cidade de São Paulo
+e) As soluções para os problemas
+ambientais precisam de integração
+entre as várias secretarias
+municipais.
+
+CONCORDO
+TOTALMENTE
+
+CONCORDO
+PARCIALMENTE
+
+DISCORDO
+PARCIALMENTE
+
+DISCORDO
+TOTALMENTE
+
+NÃO
+SABE
+
+PREFERE
+NÃO
+RESPONDER
+
+01
+
+02
+
+03
+
+04
+
+98
+
+99
+
+01
+
+02
+
+03
+
+04
+
+98
+
+99
+
+01
+
+02
+
+03
+
+04
+
+98
+
+99
+
+01
+
+02
+
+03
+
+04
+
+98
+
+99
+
+01
+
+02
+
+03
+
+04
+
+98
+
+99
+
+## PARA TODOS ##
+Agora, para finalizar...
+P.RAÇA) Agora, vou fazer uma pergunta exatamente como é feita pelo IBGE para classificação da população
+brasileira. A sua cor ou raça é: (LEIA TODAS AS OPÇÕES – RU)
+01( ) Branca
+02( ) Preta
+03( ) Parda
+
+04( ) Amarela
+05( ) Indígena
+
+P.RELIGIÃO) Qual é a sua religião? (ESPONTÂNEA - RU)
+01(
+02(
+03(
+04(
+05(
+06(
+07(
+08(
+09(
+10(
+11(
+
+) Católica Apostólica Romana
+) Assembleia de Deus
+) Batista/ Metodista/ Presbiteriana
+) Universal do Reino de Deus
+) Deus é Amor
+) Evangelho Quadrangular
+) Igreja Internacional da Graça
+) Renascer em Cristo
+) Sara nossa terra
+) Outras Evangélicas específicas
+) Evangélica - NÃO SEI especificar
+
+12(
+13(
+14(
+15(
+16(
+17(
+18(
+
+) Adventista
+) Testemunha de Jeová
+) Judaica
+) Espírita/ Kardecista
+) Afro-Brasileiras (Umbanda, Candomblé, etc)
+) Orientais (Budismo, Islamismo, etc)
+) Outras religiões (SEM ESPECIFICAR)
+
+19( ) É religioso mas não segue nenhuma/ Agnóstico
+20( ) Ateu, não tem religião
+99( ) Não respondeu
+
+*** CARTELA DE RENDA ***
+REND1) Em qual destas faixas está a sua renda individual do mês passado? (RU)
+REND2) E em qual destas faixas está a renda total da sua família no mês passado, somando as rendas de
+todas as pessoas que moram com você, inclusive a sua? (RU por coluna)
+REND 1)
+RENDA PESSOAL
+
+REND 2)
+RENDA FAMILIAR
+
+Mais de R$ 22.000,01 / Mais de 20 SM
+
+01
+
+01
+
+Mais de R$ 11.000,01 até R$ 22.000,00 / Mais de 10 a 20 SM
+
+02
+
+02
+
+Mais de R$ 5.500,01 até R$ 11.000,00 / Mais de 5 a 10 SM
+
+03
+
+03
+
+Mais de R$ 2.200,01 até R$ 5.500,00 / Mais de 2 a 5 SM
+
+04
+
+04
+
+Mais de R$ 1.100,01 até R$ 2.200,00 / Mais de 1 a 2 SM
+
+05
+
+05
+
+Até R$ 1.100,00 / Até 1 salário mínimo
+
+06
+
+06
+
+Não tem/tenho rendimento pessoal
+
+98
+
+/////
+
+Prefiro não responder
+
+99
+
+99
+
+Outro (Especificar)
+PROGRAMAÇÃO1: Esse item só deve aparecer para a
+programação Online
+
+96
+
+96
+
+AQUI ENCERRA A ENTREVISTA, COMO FALEI MEU NOME É............. E QUERO AGRADECER A SUA
+PARTICIPAÇÃO NESTA PESQUISA PARA O IPEC – INTELIGÊNCIA EM PESQUISA E CONSULTORIA.
+CASO TENHA ALGUMA DÚVIDA SOBRE A NOSSA PESQUISA VOCÊ PODERÁ ENTRAR EM CONTATO
+DIRETAMENTE COM O IPEC – INTELIGÊNCIA EM PESQUISA E CONSULTORIA ATRAVÉS DO
+TELEFONE 0800 800 5000.
+
+ESPECIFICAÇÕES TÉCNICAS DA PESQUISA
+
+OBJETIVO
+
+Levantar as percepções dos moradores da cidade de São Paulo a respeito do meio ambiente.
+
+LOCAL
+
+São Paulo ‐ SP.
+
+PERÍODO DE CAMPO
+
+De 12 a 29 de abril de 2021.
+
+UNIVERSO
+
+A pesquisa é realizada com população de 16 anos ou mais da área em estudo.
+
+AMOSTRA
+
+Representativa da população do universo e distribuída de maneira desproporcional nas 5 regiões da cidade de São Paulo, com o objetivo de
+permitir a leitura dos resultados por cada uma delas. Além disso, foram definidas cotas proporcionais pelas variáveis descritas no item abaixo.
+
+VARIÁVEIS PARA
+COTAS AMOSTRAIS
+
+SEXO: Masculino e Feminino.
+GRUPOS DE IDADE: 16‐24, 25‐34, 35‐44, 45‐54, 55 anos e mais.
+INSTRUÇÃO ‐ Ensino Fundamental; Ensino Médio; Superior.
+CLASSE SOCIOECONÔMICA: A; B1; B2; C1; C2; D/E.
+CONDIÇÃO DE ATIVIDADE: Ocupado; Não ocupado.
+FONTES DE DADOS PARA ELABORAÇÃO DA AMOSTRA: CENSO 2010, PNADC 2019.
+
+PONDERAÇÃO
+
+Os resultados foram ponderados para restabelecer o peso de cada região da cidade e o perfil dos respondentes.
+
+NÚMERO DE
+ENTREVISTAS
+
+Foram realizadas 800 entrevistas.
+
+MARGEM DE ERRO
+
+A margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+
+NÍVEL DE CONFIANÇA
+
+O nível de confiança utilizado é de 95%.
+
+COLETA DE DADOS
+
+Online (painel de internautas) e por meio de coleta face‐a‐face domiciliar, utilizando questionário elaborado de acordo com os objetivos da
+pesquisa.
+
+CONTROLE DE
+QUALIDADE
+
+ Verificação dos chamados “speeders” (painelistas que respondem rápido demais a uma pesquisa, clicando em qualquer resposta da tela
+para finalizar o questionário o mais rápido possível);
+ Inserção de perguntas aleatórias não relacionadas ao tema do estudo, ou spamtrap, que tem o intuito de verificar se os respondentes
+estão ou não prestando atenção no questionário.
+
+
