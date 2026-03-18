@@ -1,0 +1,77 @@
+arquivo,var_religiao,cod_evangelico,cod_catolico,var_tema,label_tema
+00279.sav,p24,"4,5","2,3",p19_m,Mulher deve casar virgem (opinião por religião)
+00279.sav,p24,"4,5","2,3",p18,Posição sobre casamento e sexualidade
+00282.sav,p25,"2,3","1",p3m,Mulher deve casar virgem (Papa e católicos)
+00282.sav,p25,"2,3","1",p24b,Quem não acredita em Deus pode ir ao céu
+00282.sav,p25,"2,3","1",p24c,Pessoas de outra religião podem ir ao céu
+00526.sav,p4,"1,2","6",p1,Posição sobre ensino religioso nas escolas
+00533.sav,p1,"1,6","10",p7a,IURD exige doação de dinheiro
+00533.sav,p1,"1,6","10",p11c,IURD ameaça interesses da Igreja Católica e Globo
+00533.sav,p1,"1,6","10",p9,Favor ou contra inquérito contra Edir Macedo
+00849.sav,p15,"1,2","6",p1,Posição sobre doação de órgãos (moralidade corporal)
+00853.sav,p79,"1,2","6",p3g,Importância da religião na vida
+00853.sav,p79,"1,2","6",p19,Posição sobre família e valores familiares
+00862.sav,p7,"1,2","6",p1,Pesquisa de vitimização por religião
+01193.sav,relig,"1,2","5",p101,Orgulho de ser brasileiro por religião
+01825.sav,p76_1,"1,2","6",p45k,Confiança em igrejas e padres católicos
+01825.sav,p76_1,"1,2","6",p45l,Confiança em igrejas e pastores evangélicos
+01825.sav,p76_1,"1,2","6",p75j,Membro de grupo religioso
+01827.sav,p124a,"1,2","6,7",p179,Se sente à vontade ao declarar religião
+01827.sav,p124a,"1,2","6,7",p180,Como pessoas de outra religião reagem
+01827.sav,p124a,"1,2","6,7",p181,Tratamento da religião na TV e rádio
+01827.sav,p124a,"1,2","6,7",p182a,Medida do governo para respeitar religião
+01864.sav,p152,"2,3","8",p36.1a,Avaliação da atuação da Igreja Católica
+01864.sav,p152,"2,3","8",p36.2a,Confiança na Igreja Católica
+01864.sav,p152,"2,3","8",p155,Frequência a missa/culto religioso
+01864.sav,p152,"2,3","8",p145,Definição de esquerda por religião
+02303.sav,p176reli1,"1","5",p7c,Sentimento ao encontrar gente muito religiosa
+02303.sav,p176reli1,"1","5",p164be,Não se sente à vontade em casas noturnas por religião
+02303.sav,p176reli1,"1","5",p164bf,Não se sente à vontade em bares por religião
+02303.sav,p176reli1,"1","5",p56t,Participação em grupo religioso
+02330.sav,se2,"2","7",conf4a,Confiança na Igreja
+02330.sav,se2,"2","7",conf2f,Confiança nas pessoas que frequentam sua igreja
+02330.sav,se2,"2","7",aval1_1,Avaliação da atuação da Igreja
+02330.sav,se2,"2","7",part3h,Participa de grupo religioso
+02483.sav,reli1,"1","5,6",p20m,Confiança em igrejas e padres católicos
+02483.sav,reli1,"1","5,6",p20o,Confiança em igrejas e pastores evangélicos
+02632.sav,VS18,"2,3","8",B20,Confiança na Igreja Católica
+02632.sav,VS18,"2,3","8",CP6,Frequência a reuniões de organização religiosa
+02632.sav,VS18,"2,3","8",CP4B,Pediu ajuda a alguma igreja para resolver problemas
+02636.sav,religiao,"1,2","6",p47c,Já sofreu preconceito por causa da religião
+02636.sav,religiao,"1,2","6",p45h,Participa de movimentos ligados à Igreja
+03192.sav,P42,"2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20","1",P44,Importância da religião na vida
+03192.sav,P42,"2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20","1",P45,Deve fazer o que a Igreja aconselha ou só quando concorda
+03192.sav,P42,"2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20","1",P7301,Confiança na Igreja
+03192.sav,P42,"2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20","1",P43,Frequência a cerimônias religiosas
+03369.sav,religiao,"1,2","6",p1,Posição sobre sexualidade dos brasileiros
+03370.sav,religiao,"1,2","6",p6h,Existem casos de corrupção na Igreja Católica
+03370.sav,religiao,"1,2","6",p6s,Existem casos de corrupção nas igrejas evangélicas
+03932.sav,reli1,"1","5",p10AB3,Sentimento ao encontrar gente muito religiosa
+04722.sav,RELIGIAO,"2,3,4,5,6,7,8,9,10","1",P110,Confiança nas Igrejas (ICS 2020)
+04820.sav,p62,"5","3",p14.6,Confiança nas igrejas (Cara da Democracia 2018)
+04820.sav,p62,"5","3",p60,Grau de religiosidade
+04820.sav,p62,"5","3",p61,Frequência a missa ou culto religioso
+04825.sav,RELIGIÃO,"5","3",q8.4,Confiança nas igrejas (Cara da Democracia 2020)
+00322.SAV,p50a,"2,3,4,5","1",p5,Democracia é sempre melhor (cultura política 1993)
+00322.SAV,p50a,"2,3,4,5","1",p29,Confiança no governo do Brasil
+00322.SAV,p50a,"2,3,4,5","1",p65c,Confiança nas igrejas
+00322.SAV,p50a,"2,3,4,5","1",p65b,Confiança no governo federal
+00322.SAV,p50a,"2,3,4,5","1",p65h,Confiança nos partidos políticos
+00322.SAV,p50a,"2,3,4,5","1",p38,Partidos são indispensáveis à democracia
+00387.SAV,p33,"2,3","1",p5,Democracia vs ditadura (identidade e valores 1994)
+00499.SAV,p30,"1,2","6",p16,Brancos têm preconceito contra negros (preconceito 1995)
+00499.SAV,p30,"1,2","6",p15,Casamento filho com pessoa negra
+00828.SAV,p19,"1,2","6",p3a,Favor ou contra aborto em caso de estupro
+00828.SAV,p19,"1,2","6",p4,Projeto de lei para ampliar aborto
+00828.SAV,p19,"1,2","6",p9a,Favor ou contra aborto quando mãe tem AIDS
+00828.SAV,p19,"1,2","6",p9e,Favor ou contra aborto quando má formação feto
+00828.SAV,p19,"1,2","6",p12,Mais importante: acesso ao aborto ou normas morais/religiosas
+00828.SAV,p19,"1,2","6",p16,Papa deve falar sobre projeto do aborto na visita
+02637.SAV,p78,"1,2","6",p60,Posição sobre aborto (jovens brasileiros)
+02637.SAV,p78,"1,2","6",p63,Pena de morte (jovens brasileiros)
+02637.SAV,p78,"1,2","6",p41a,Importância da família na vida (jovens)
+02637.SAV,p78,"1,2","6",p41b,Importância da religião na vida (jovens)
+04752.SAV,RELIGIAO,"5","3",P2,Posição sobre diversidade sexual LGBTQIA+
+04748.SAV,RELIGIAO,"5","3",P2,Posição sobre democracia e eleições 2021
+04829.SAV,RELIGIAO,"5","3",P2,Percepção sobre racismo no Brasil 2023
+04843.SAV,RELIGIAO,"5","3",P2,Perfil ideológico por religião 2023
