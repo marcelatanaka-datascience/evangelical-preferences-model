@@ -1,0 +1,1234 @@
+================================================================================
+RELATÓRIO CESOP — OPINIÃO PÚBLICA POR RELIGIÃO
+Gerado para incorporação ao argumento histórico da tese
+================================================================================
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00279.sav
+TEMA: Mulher deve casar virgem (opinião por religião)
+VARIÁVEL: p19_m — A igreja condena o sexo antes do casamento. Na sua opinião a mulher deve ou não casar virgem?
+N total=1046 | Evangélicos=115 | Católicos=735 | Outros=196
+Qui-quadrado: χ²=67.43, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Deve casar virgem: Evangélico=59.1% | Católico=24.5% | Outro=20.4%
+    Não deve: Evangélico=17.4% | Católico=49.4% | Outro=54.6%
+    Tanto faz / depende: Evangélico=23.5% | Católico=22.7% | Outro=24.0%
+    Não sabe: Evangélico=0.0% | Católico=3.4% | Outro=1.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Deve casar virgem' → Evangélicos=59.1% vs Católicos=24.5% (diferença=34.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00279.sav
+TEMA: Posição sobre casamento e sexualidade
+VARIÁVEL: p18 — Na sua opinião, o casamento das pessoas do mesmo sexo deve ou não ser reconhecido por lei?
+N total=1046 | Evangélicos=115 | Católicos=735 | Outros=196
+Qui-quadrado: χ²=28.46, p=0.0000 (***), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim, deve ser reconhecido: Evangélico=9.6% | Católico=32.1% | Outro=39.3%
+    Não deve ser reconhecido: Evangélico=87.8% | Católico=62.6% | Outro=54.6%
+    Não sabe: Evangélico=2.6% | Católico=5.3% | Outro=6.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não deve ser reconhecido' → Evangélicos=87.8% vs Católicos=62.6% (diferença=25.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00282.sav
+TEMA: Mulher deve casar virgem (Papa e católicos)
+VARIÁVEL: p3m — A igreja condena o sexo antes do casamento. Na sua opinião a mulher deve ou não casar virgem?
+N total=2328 | Evangélicos=240 | Católicos=1720 | Outros=368
+Qui-quadrado: χ²=76.55, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Deve casar virgem: Evangélico=64.6% | Católico=36.0% | Outro=29.1%
+    Não deve: Evangélico=17.5% | Católico=39.9% | Outro=44.3%
+    Tanto faz/depende: Evangélico=17.5% | Católico=22.2% | Outro=23.6%
+    Não sabe: Evangélico=0.4% | Católico=1.9% | Outro=3.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Deve casar virgem' → Evangélicos=64.6% vs Católicos=36.0% (diferença=28.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00282.sav
+TEMA: Quem não acredita em Deus pode ir ao céu
+VARIÁVEL: p24b — Você acha que as pessoas que não acreditam em Deus podem ir para o céu. E os que não tem religião?
+N total=2328 | Evangélicos=240 | Católicos=1720 | Outros=368
+Qui-quadrado: χ²=19.48, p=0.0006 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=2.3% | Católico=5.6% | Outro=14.9%
+    Sim: Evangélico=27.7% | Católico=37.2% | Outro=42.0%
+    Não: Evangélico=49.5% | Católico=38.4% | Outro=26.1%
+    Depende: Evangélico=17.3% | Católico=12.9% | Outro=12.2%
+    Não sabe: Evangélico=3.2% | Católico=5.9% | Outro=4.8%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não' → Evangélicos=49.5% vs Católicos=38.4% (diferença=11.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00282.sav
+TEMA: Pessoas de outra religião podem ir ao céu
+VARIÁVEL: p24c — Você acha que as pessoas que não acreditam em Deus podem ir para o céu. E as pessoas de outra religião que não seja a sua?
+N total=2328 | Evangélicos=240 | Católicos=1720 | Outros=368
+Qui-quadrado: χ²=15.59, p=0.0036 (**), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=2.3% | Católico=6.7% | Outro=16.1%
+    Sim: Evangélico=60.9% | Católico=63.7% | Outro=59.9%
+    Não: Evangélico=11.4% | Católico=10.3% | Outro=5.7%
+    Depende: Evangélico=21.4% | Católico=13.4% | Outro=12.5%
+    Não sabe: Evangélico=4.1% | Católico=6.0% | Outro=5.7%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Depende' → Evangélicos=21.4% vs Católicos=13.4% (diferença=8.0pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00526.sav
+TEMA: Posição sobre ensino religioso nas escolas
+VARIÁVEL: p1 — Existe um projeto de inclusão de aulas de religião nas escolas públicas. Os alunos poderão decidir entre assistir ou não a essas aulas. Você é contra ou a favor o ensino de religião nas escolas?
+N total=401 | Evangélicos=42 | Católicos=275 | Outros=84
+Qui-quadrado: χ²=5.02, p=0.1702 (n.s.), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Contra: Evangélico=31.0% | Católico=28.4% | Outro=46.4%
+    A favor: Evangélico=57.1% | Católico=64.0% | Outro=46.4%
+    Não sabe: Evangélico=2.4% | Católico=4.7% | Outro=1.2%
+    Depende: Evangélico=9.5% | Católico=2.9% | Outro=6.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A favor' → Evangélicos=57.1% vs Católicos=64.0% (diferença=6.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00533.sav
+TEMA: IURD exige doação de dinheiro
+VARIÁVEL: p7a — Eu vou dizer algumas frases e gostaria que você me dissesse se concorda ou discorda de cada uma delas: A IGREJA UNIVERSAL EXIGE DE SEUS FIÉIS A DOAÇÃO DE DINHEIRO
+N total=1079 | Evangélicos=148 | Católicos=708 | Outros=223
+Qui-quadrado: χ²=24.49, p=0.0001 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Concorda totalmente: Evangélico=30.4% | Católico=52.1% | Outro=54.7%
+    Concorda em parte: Evangélico=10.8% | Católico=6.4% | Outro=5.8%
+    Discorda totalmente: Evangélico=37.2% | Católico=26.7% | Outro=31.4%
+    Discorda em parte: Evangélico=14.2% | Católico=8.5% | Outro=4.9%
+    Não sabe: Evangélico=7.4% | Católico=6.4% | Outro=3.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Concorda totalmente' → Evangélicos=30.4% vs Católicos=52.1% (diferença=21.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00533.sav
+TEMA: IURD ameaça interesses da Igreja Católica e Globo
+VARIÁVEL: p11c — Vou ler algumas frases para que você me diga se  ___ : A IGREJA UNIVERSAL ESTÁ SENDO ATACADA ATUALMENTE SÓ PORQUE, ATRAVÉS DO SEU CRESCIMENTO E DA TV RECORD, ESTÁ AMEAÇANDO OS INTERESSES DA IGREJA CATÓLICA E DA REDE GLOBO
+N total=1079 | Evangélicos=148 | Católicos=708 | Outros=223
+Qui-quadrado: χ²=31.12, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Concorda totalmente: Evangélico=33.1% | Católico=15.8% | Outro=20.6%
+    Concorda em parte: Evangélico=7.4% | Católico=12.9% | Outro=17.0%
+    Discorda totalmente: Evangélico=34.5% | Católico=49.2% | Outro=45.3%
+    Discorda em parte: Evangélico=12.2% | Católico=13.8% | Outro=10.8%
+    Não sabe: Evangélico=12.8% | Católico=8.3% | Outro=5.8%
+    Não aplicou: Evangélico=0.0% | Católico=0.0% | Outro=0.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Concorda totalmente' → Evangélicos=33.1% vs Católicos=15.8% (diferença=17.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00533.sav
+TEMA: Favor ou contra inquérito contra Edir Macedo
+VARIÁVEL: p9 — Você é a favor ou contra a abertura desse inquérito policial para investigar as atividades de Edir Macedo e da Igreja Universal?
+N total=1079 | Evangélicos=148 | Católicos=708 | Outros=223
+Qui-quadrado: χ²=43.36, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A favor: Evangélico=74.3% | Católico=91.8% | Outro=92.4%
+    Contra: Evangélico=14.9% | Católico=3.4% | Outro=4.5%
+    Indiferente: Evangélico=6.8% | Católico=2.3% | Outro=0.9%
+    Não sabe: Evangélico=4.1% | Católico=2.5% | Outro=2.2%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A favor' → Evangélicos=74.3% vs Católicos=91.8% (diferença=17.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00849.sav
+TEMA: Posição sobre doação de órgãos (moralidade corporal)
+VARIÁVEL: p1 — Você doaria órgãos de seu corpo para serem transplantados após sua morte?
+N total=640 | Evangélicos=103 | Católicos=389 | Outros=148
+Qui-quadrado: χ²=7.87, p=0.0966 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=54.4% | Católico=63.8% | Outro=64.9%
+    Não: Evangélico=27.2% | Católico=26.5% | Outro=25.7%
+    Depende: Evangélico=1.9% | Católico=1.0% | Outro=3.4%
+    Não sabe: Evangélico=16.5% | Católico=8.2% | Outro=5.4%
+    Outras Respostas: Evangélico=0.0% | Católico=0.5% | Outro=0.7%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Sim' → Evangélicos=54.4% vs Católicos=63.8% (diferença=9.4pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00853.sav
+TEMA: Importância da religião na vida
+VARIÁVEL: p3g — Dentre esses itens que vou citar gostaria que você me dissesse se:  RELIGIÃO
+N total=2038 | Evangélicos=314 | Católicos=1470 | Outros=254
+Qui-quadrado: χ²=26.92, p=0.0001 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito importante: Evangélico=50.3% | Católico=35.6% | Outro=30.7%
+    Importante: Evangélico=40.4% | Católico=48.1% | Outro=28.7%
+    Mais ou menos importante: Evangélico=6.1% | Católico=10.0% | Outro=17.7%
+    Um pouco importante: Evangélico=1.9% | Católico=4.4% | Outro=11.0%
+    Nada importante: Evangélico=1.0% | Católico=1.6% | Outro=11.0%
+    Não sabe: Evangélico=0.3% | Católico=0.3% | Outro=0.8%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muito importante' → Evangélicos=50.3% vs Católicos=35.6% (diferença=14.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00853.sav
+  ERRO: Variável temática 'p19' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00862.sav
+  ERRO: Variável temática 'p1' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01193.sav
+TEMA: Orgulho de ser brasileiro por religião
+VARIÁVEL: p101 — Todos os países têm coisas das quais as pessoas se orgulham e coisas das quais as pessoas sentem vergonha. O(a) sr(a) poderia citar três coisas que o(a) fazem ter orgulho de ser brasileiro(a)? (ESPONTÂNEA - TRÊS OPÇÕES)
+N total=2000 | Evangélicos=288 | Católicos=1491 | Outros=221
+Qui-quadrado: χ²=63.24, p=0.0012 (**), gl=33
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Riqueza natural: Evangélico=1.0% | Católico=1.4% | Outro=0.9%
+    Praias, mares, litoral, rios: Evangélico=1.0% | Católico=1.3% | Outro=2.3%
+    Belezas naturais: Evangélico=1.4% | Católico=2.1% | Outro=4.5%
+    Clima, ar puro: Evangélico=1.4% | Católico=1.9% | Outro=2.7%
+    Floresta Amazonica, Foz do Iguacu, Pantanal: Evangélico=3.1% | Católico=1.2% | Outro=2.3%
+    Terra boa para agricultura, fartura de alimentos: Evangélico=1.4% | Católico=0.6% | Outro=0.0%
+    Producao agricola: Evangélico=0.3% | Católico=0.2% | Outro=0.9%
+    Pais em evolucao industrial, social, etc: Evangélico=0.0% | Católico=0.3% | Outro=0.0%
+    Pais democratico, liberdade de expressao, livre escolha, etc: Evangélico=8.7% | Católico=4.9% | Outro=5.4%
+    Pais nao racista: Evangélico=0.0% | Católico=0.4% | Outro=0.5%
+    Pais pacifico: Evangélico=9.0% | Católico=8.0% | Outro=7.2%
+    Pais de fartura: Evangélico=0.0% | Católico=0.3% | Outro=0.9%
+    Pais que da melhores condicoes de vida: Evangélico=1.4% | Católico=0.8% | Outro=0.5%
+    Tamanho do pais/ Extensao territorial: Evangélico=0.0% | Católico=0.5% | Outro=1.4%
+    Oportunidade de trabalho: Evangélico=1.7% | Católico=0.7% | Outro=0.5%
+    Bom pais: Evangélico=0.7% | Católico=0.7% | Outro=0.5%
+    Outras caracteristicas sociais do pais: Evangélico=1.0% | Católico=0.4% | Outro=0.0%
+    Economia e politicas economicas (Real, Privatizacao, etc): Evangélico=0.7% | Católico=0.2% | Outro=1.4%
+    Igreja (Catolica, Evangelicas, etc): Evangélico=1.7% | Católico=0.3% | Outro=0.0%
+    Sistema educacional (escola, universidades, etc): Evangélico=1.0% | Católico=0.4% | Outro=0.9%
+    Outras instituicoes: Evangélico=0.0% | Católico=0.7% | Outro=0.5%
+    O Presidente: Evangélico=1.4% | Católico=0.7% | Outro=0.0%
+    Ser brasileiro, ter nascido aqui/ Patriota: Evangélico=6.2% | Católico=6.5% | Outro=5.4%
+    Povo alegre, feliz, com garra, inteligente, hospitaleiro: Evangélico=3.1% | Católico=6.2% | Outro=7.7%
+    Mulheres bonitas: Evangélico=0.0% | Católico=0.1% | Outro=0.0%
+    Lingua portuguesa/ Idioma: Evangélico=0.7% | Católico=0.3% | Outro=0.5%
+    Futebol, basquete, esportes em geral, etc: Evangélico=3.5% | Católico=4.9% | Outro=7.7%
+    Musica brasileira, carnaval, folclore, festas tradicionais: Evangélico=0.0% | Católico=0.4% | Outro=1.4%
+    Cultura brasileira: Evangélico=0.0% | Católico=0.4% | Outro=0.5%
+    Um pais lindo/ Bonito: Evangélico=1.7% | Católico=0.9% | Outro=1.4%
+    Nao ter terremotos/ Maremotos: Evangélico=1.0% | Católico=0.5% | Outro=0.5%
+    Outros: Evangélico=2.8% | Católico=1.3% | Outro=1.4%
+    Nao sente orgulho: Evangélico=13.2% | Católico=11.7% | Outro=14.9%
+    Nao sabe/ Nao opinou: Evangélico=30.6% | Católico=38.5% | Outro=25.8%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Nao sabe/ Nao opinou' → Evangélicos=30.6% vs Católicos=38.5% (diferença=7.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01825.sav
+TEMA: Confiança em igrejas e padres católicos
+VARIÁVEL: p45k — Gostaria que você me dissesse se, de um modo geral, você: NAS IGREJAS E PADRES CATÓLICOS
+N total=4935 | Evangélicos=767 | Católicos=3563 | Outros=605
+Qui-quadrado: χ²=136.37, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia Totalmente: Evangélico=11.3% | Católico=45.9% | Outro=16.1%
+    Confia até Certo Ponto: Evangélico=34.6% | Católico=42.4% | Outro=43.2%
+    Não Confia: Evangélico=51.9% | Católico=10.6% | Outro=39.8%
+    Não se aplica: Evangélico=0.8% | Católico=0.9% | Outro=0.8%
+    Não sabe: Evangélico=0.8% | Católico=0.0% | Outro=0.0%
+    Não respondeu: Evangélico=0.8% | Católico=0.2% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não Confia' → Evangélicos=51.9% vs Católicos=10.6% (diferença=41.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01825.sav
+TEMA: Confiança em igrejas e pastores evangélicos
+VARIÁVEL: p45l — Gostaria que você me dissesse se, de um modo geral, você: NAS IGREJAS E PASTORES EVANGÉLICOS
+N total=4935 | Evangélicos=767 | Católicos=3563 | Outros=605
+Qui-quadrado: χ²=124.11, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia Totalmente: Evangélico=39.8% | Católico=7.2% | Outro=6.8%
+    Confia até Certo Ponto: Evangélico=45.1% | Católico=40.0% | Outro=34.7%
+    Não Confia: Evangélico=13.5% | Católico=50.0% | Outro=57.6%
+    Não se aplica: Evangélico=0.0% | Católico=2.4% | Outro=0.8%
+    Não sabe: Evangélico=0.8% | Católico=0.0% | Outro=0.0%
+    Não respondeu: Evangélico=0.8% | Católico=0.4% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não Confia' → Evangélicos=13.5% vs Católicos=50.0% (diferença=36.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01825.sav
+TEMA: Membro de grupo religioso
+VARIÁVEL: p75j — Você é ou já foi membro de algum/a….. GRUPO RELIGIOSO (SE SIM) DE QUE IGREJA
+N total=4935 | Evangélicos=767 | Católicos=3563 | Outros=605
+Qui-quadrado: χ²=67.19, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    É membro: Evangélico=46.2% | Católico=21.0% | Outro=13.1%
+    Já foi: Evangélico=12.4% | Católico=14.2% | Outro=13.1%
+    Nunca foi: Evangélico=40.6% | Católico=64.3% | Outro=73.0%
+    Não respondeu: Evangélico=0.9% | Católico=0.5% | Outro=0.9%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'É membro' → Evangélicos=46.2% vs Católicos=21.0% (diferença=25.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01827.sav
+  ERRO: Variável temática 'p179' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01827.sav
+  ERRO: Variável temática 'p180' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01827.sav
+  ERRO: Variável temática 'p181' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01827.sav
+  ERRO: Variável temática 'p182a' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01864.sav
+TEMA: Avaliação da atuação da Igreja Católica
+VARIÁVEL: p36.1a — Avaliação da atuação da igreja católica
+N total=2364 | Evangélicos=367 | Católicos=1674 | Outros=312
+Qui-quadrado: χ²=170.26, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Péssima: Evangélico=14.9% | Católico=2.5% | Outro=9.2%
+    Ruim: Evangélico=22.9% | Católico=3.3% | Outro=12.8%
+    Regular para ruim: Evangélico=1.1% | Católico=0.2% | Outro=1.4%
+    Regular para bom: Evangélico=3.2% | Católico=1.9% | Outro=1.4%
+    Boa: Evangélico=44.1% | Católico=55.9% | Outro=58.2%
+    Ótima: Evangélico=13.8% | Católico=36.3% | Outro=17.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Ótima' → Evangélicos=13.8% vs Católicos=36.3% (diferença=22.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01864.sav
+TEMA: Confiança na Igreja Católica
+VARIÁVEL: p36.2a — Nível de confiança na igreja católica
+N total=2364 | Evangélicos=367 | Católicos=1674 | Outros=312
+Qui-quadrado: χ²=304.53, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não confia: Evangélico=47.8% | Católico=3.6% | Outro=33.7%
+    Confia pouco: Evangélico=31.8% | Católico=22.8% | Outro=38.6%
+    Confia: Evangélico=16.6% | Católico=30.8% | Outro=19.3%
+    Confia muito: Evangélico=3.8% | Católico=42.8% | Outro=8.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não confia' → Evangélicos=47.8% vs Católicos=3.6% (diferença=44.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01864.sav
+TEMA: Frequência a missa/culto religioso
+VARIÁVEL: p155 — Freqüência de participação em Missa/Culto Religioso
+N total=2364 | Evangélicos=367 | Católicos=1674 | Outros=312
+Qui-quadrado: χ²=385.62, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Mais de uma vez por semana: Evangélico=56.0% | Católico=9.6% | Outro=25.9%
+    Uma vez por semana: Evangélico=22.3% | Católico=29.7% | Outro=26.6%
+    Uma ou Duas vezes por mês: Evangélico=12.5% | Católico=28.4% | Outro=16.5%
+    Algumas vezes por ano: Evangélico=4.0% | Católico=17.1% | Outro=12.2%
+    Raramente: Evangélico=5.2% | Católico=15.2% | Outro=18.7%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Mais de uma vez por semana' → Evangélicos=56.0% vs Católicos=9.6% (diferença=46.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 01864.sav
+TEMA: Definição de esquerda por religião
+VARIÁVEL: p145 — Definição de esquerda
+N total=2364 | Evangélicos=367 | Católicos=1674 | Outros=312
+Qui-quadrado: χ²=11.39, p=0.8357 (n.s.), gl=17
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Ser de oposição: Evangélico=35.7% | Católico=36.0% | Outro=39.8%
+    Defender os pobres/povo: Evangélico=16.1% | Católico=17.2% | Outro=20.3%
+    Estar do lado errado: Evangélico=22.7% | Católico=16.6% | Outro=10.0%
+    Ser contra o regime: Evangélico=5.5% | Católico=7.0% | Outro=13.1%
+    Não fazer nada: Evangélico=1.6% | Católico=2.6% | Outro=2.0%
+    Ser contra o povo: Evangélico=2.7% | Católico=2.8% | Outro=0.8%
+    Ser comunista/socialista: Evangélico=6.3% | Católico=7.2% | Outro=6.4%
+    Ser corrupto: Evangélico=0.4% | Católico=0.3% | Outro=0.0%
+    Ser do PT/a favor do PT/do Lula: Evangélico=0.8% | Católico=0.6% | Outro=0.4%
+    Ser canhoto: Evangélico=0.4% | Católico=0.6% | Outro=0.4%
+    Ser radical: Evangélico=0.0% | Católico=0.7% | Outro=1.6%
+    Não entender as coisas: Evangélico=0.4% | Católico=0.3% | Outro=0.0%
+    Fazer protestos/greves: Evangélico=0.4% | Católico=0.3% | Outro=0.0%
+    Ser do governo/a favor do governo: Evangélico=0.0% | Católico=0.3% | Outro=0.0%
+    Ser inferior/de menor valor/estar abaixo: Evangélico=0.4% | Católico=1.1% | Outro=0.4%
+    Não ser fiel ao partido: Evangélico=0.4% | Católico=0.2% | Outro=0.0%
+    Ter uma condição social mais baixa: Evangélico=0.4% | Católico=0.3% | Outro=0.4%
+    Outro: Evangélico=5.9% | Católico=6.0% | Outro=4.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Estar do lado errado' → Evangélicos=22.7% vs Católicos=16.6% (diferença=6.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02303.sav
+TEMA: Sentimento ao encontrar gente muito religiosa
+VARIÁVEL: p7c — Vou falar de alguns tipos de pessoas e gostaria que o/a sr/a. me dissesse o que o/a sr/a sente normalmente quando vê ou encontra desconhecidos do tipo deles: Por exemplo, quando o/ sr/a. encontra  GENTE MUITO RELIGIOSA, o/a sr/a diria que sente por eles:
+N total=5003 | Evangélicos=1111 | Católicos=3297 | Outros=595
+Qui-quadrado: χ²=6.25, p=0.5114 (n.s.), gl=7
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=65.7% | Católico=67.6% | Outro=63.0%
+    Repulsa/ ódio: Evangélico=1.1% | Católico=0.7% | Outro=1.7%
+    Antipatia: Evangélico=3.8% | Católico=3.7% | Outro=6.7%
+    Indiferença: Evangélico=10.6% | Católico=9.2% | Outro=18.0%
+    Satisfação/ alegria: Evangélico=17.0% | Católico=17.0% | Outro=7.7%
+    Outras respostas: Evangélico=1.6% | Católico=1.3% | Outro=2.0%
+    Não sabe: Evangélico=0.2% | Católico=0.4% | Outro=0.8%
+    Não respondeu: Evangélico=0.0% | Católico=0.0% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não se aplica' → Evangélicos=65.7% vs Católicos=67.6% (diferença=1.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02303.sav
+TEMA: Não se sente à vontade em casas noturnas por religião
+VARIÁVEL: p164be — O/a sr/a. não se sente à vontade em  CASAS NOTURNAS principalmente: por sua cor ou raça, por sua situação econômica ou por sua religião?
+N total=5003 | Evangélicos=1111 | Católicos=3297 | Outros=595
+Qui-quadrado: χ²=233.96, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=80.6% | Católico=87.8% | Outro=92.3%
+    Cor/Raça: Evangélico=0.1% | Católico=0.0% | Outro=0.0%
+    Situação econômica: Evangélico=2.4% | Católico=4.5% | Outro=3.4%
+    Religião: Evangélico=11.1% | Católico=1.2% | Outro=0.2%
+    Outras respostas: Evangélico=5.0% | Católico=5.8% | Outro=3.9%
+    Não sabe/ não respondeu: Evangélico=0.7% | Católico=0.7% | Outro=0.3%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Religião' → Evangélicos=11.1% vs Católicos=1.2% (diferença=9.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02303.sav
+TEMA: Não se sente à vontade em bares por religião
+VARIÁVEL: p164bf — O/a sr/a. não se sente à vontade em   BARES principalmente: por sua cor ou raça, por sua situação econômica ou por sua religião?
+N total=5003 | Evangélicos=1111 | Católicos=3297 | Outros=595
+Qui-quadrado: χ²=277.53, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=81.7% | Católico=89.7% | Outro=94.3%
+    Cor/Raça: Evangélico=0.0% | Católico=0.0% | Outro=0.0%
+    Situação econômica: Evangélico=1.5% | Católico=2.9% | Outro=1.5%
+    Religião: Evangélico=11.1% | Católico=0.8% | Outro=0.5%
+    Outras respostas: Evangélico=5.0% | Católico=6.0% | Outro=3.4%
+    Não sabe/ não respondeu: Evangélico=0.7% | Católico=0.7% | Outro=0.3%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Religião' → Evangélicos=11.1% vs Católicos=0.8% (diferença=10.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02303.sav
+TEMA: Participação em grupo religioso
+VARIÁVEL: p56t — Vou falar alguns tipos de associações, entidades e grupos e gostaria que o/a sr/a. me dissesse, para GRUPO RELIGIOSO se:
+N total=5003 | Evangélicos=1111 | Católicos=3297 | Outros=595
+Qui-quadrado: χ²=55.22, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=65.7% | Católico=67.6% | Outro=63.0%
+    Participa: Evangélico=11.1% | Católico=5.2% | Outro=2.5%
+    Já participou: Evangélico=7.4% | Católico=7.1% | Outro=8.2%
+    Nunca, mas gostaria: Evangélico=7.7% | Católico=9.1% | Outro=9.4%
+    Nunca, nem gostaria: Evangélico=8.0% | Católico=11.0% | Outro=16.8%
+    Não respondeu: Evangélico=0.1% | Católico=0.0% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Participa' → Evangélicos=11.1% vs Católicos=5.2% (diferença=5.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02330.sav
+TEMA: Confiança na Igreja
+VARIÁVEL: conf4a — CONF.4. Vou citar alguns órgãos públicos e particulares e gostaria de saber qual é o grau de confiança que Você tem em cada um deles: NA IGREJA
+N total=2004 | Evangélicos=403 | Católicos=1336 | Outros=265
+Qui-quadrado: χ²=21.72, p=0.0006 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muita confiança: Evangélico=52.1% | Católico=39.4% | Outro=27.5%
+    Alguma confiança: Evangélico=27.3% | Católico=36.4% | Outro=31.3%
+    Pouca confiança: Evangélico=16.1% | Católico=18.3% | Outro=23.0%
+    Nenhuma confiança: Evangélico=4.0% | Católico=4.8% | Outro=14.7%
+    Não sabe: Evangélico=0.2% | Católico=0.7% | Outro=3.0%
+    Não respondeu: Evangélico=0.2% | Católico=0.3% | Outro=0.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muita confiança' → Evangélicos=52.1% vs Católicos=39.4% (diferença=12.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02330.sav
+TEMA: Confiança nas pessoas que frequentam sua igreja
+VARIÁVEL: conf2f — CONF.2. Gostaria que Você dissesse se tem muita confiança, alguma confiança, pouca confiança ou nenhuma confiança... NAS PESSOAS QUE FREQUENTAM SUA IGREJA
+N total=2004 | Evangélicos=403 | Católicos=1336 | Outros=265
+Qui-quadrado: χ²=31.87, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muita confiança: Evangélico=9.2% | Católico=9.4% | Outro=17.7%
+    Alguma confiança: Evangélico=25.6% | Católico=33.3% | Outro=23.0%
+    Pouca confiança: Evangélico=38.7% | Católico=35.6% | Outro=27.5%
+    Nenhuma confiança: Evangélico=24.6% | Católico=15.5% | Outro=14.0%
+    Não sabe: Evangélico=1.2% | Católico=3.5% | Outro=11.3%
+    Não respondeu: Evangélico=0.7% | Católico=2.7% | Outro=6.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Nenhuma confiança' → Evangélicos=24.6% vs Católicos=15.5% (diferença=9.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02330.sav
+TEMA: Avaliação da atuação da Igreja
+VARIÁVEL: aval1_1 — AVAL.1. Gostaria que você avaliasse a atuação de cada das seguintes instutuiçoes: IGREJA
+N total=2004 | Evangélicos=403 | Católicos=1336 | Outros=265
+Qui-quadrado: χ²=25.87, p=0.0002 (***), gl=6
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Ótima: Evangélico=35.0% | Católico=22.8% | Outro=17.7%
+    Boa: Evangélico=57.1% | Católico=65.9% | Outro=54.7%
+    Ruim: Evangélico=2.2% | Católico=2.8% | Outro=9.1%
+    Péssimo: Evangélico=1.2% | Católico=1.3% | Outro=7.2%
+    Regular: Evangélico=4.2% | Católico=6.5% | Outro=8.7%
+    Não sabe: Evangélico=0.2% | Católico=0.5% | Outro=2.6%
+    Não respondeu: Evangélico=0.0% | Católico=0.1% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Ótima' → Evangélicos=35.0% vs Católicos=22.8% (diferença=12.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02330.sav
+TEMA: Participa de grupo religioso
+VARIÁVEL: part3h — PART.3. Vou citar algumas organizações e gostaria que  Você me dissesse se participa ou não de cada uma delas: Grupo religioso (comunidade eclesial de base ou outro grupo ligado à igreja)
+N total=2004 | Evangélicos=403 | Católicos=1336 | Outros=265
+Qui-quadrado: χ²=77.85, p=0.0000 (***), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=43.4% | Católico=21.3% | Outro=20.8%
+    Não: Evangélico=56.6% | Católico=78.6% | Outro=79.2%
+    Não respondeu: Evangélico=0.0% | Católico=0.1% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Sim' → Evangélicos=43.4% vs Católicos=21.3% (diferença=22.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02483.sav
+TEMA: Confiança em igrejas e padres católicos
+VARIÁVEL: p20m — Gostaria que você me dissesse se, de um modo geral:  Nas Igrejas e padres católicos
+N total=2379 | Evangélicos=564 | Católicos=1556 | Outros=259
+Qui-quadrado: χ²=136.14, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=46.5% | Católico=51.2% | Outro=50.2%
+    Confia totalmente: Evangélico=9.2% | Católico=22.3% | Outro=4.2%
+    Confia até certo ponto: Evangélico=23.6% | Católico=20.4% | Outro=21.6%
+    Não confia: Evangélico=19.0% | Católico=5.8% | Outro=23.2%
+    Não sabe: Evangélico=1.8% | Católico=0.2% | Outro=0.8%
+    Recusa: Evangélico=0.0% | Católico=0.1% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não confia' → Evangélicos=19.0% vs Católicos=5.8% (diferença=13.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02483.sav
+TEMA: Confiança em igrejas e pastores evangélicos
+VARIÁVEL: p20o — Gostaria que você me dissesse se, de um modo geral:  Nas Igrejas e pastores evangélicos
+N total=2379 | Evangélicos=564 | Católicos=1556 | Outros=259
+Qui-quadrado: χ²=140.59, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=46.5% | Católico=51.2% | Outro=50.2%
+    Confia totalmente: Evangélico=24.1% | Católico=8.0% | Outro=4.6%
+    Confia até certo ponto: Evangélico=23.4% | Católico=20.7% | Outro=17.4%
+    Não confia: Evangélico=5.9% | Católico=18.5% | Outro=27.4%
+    Não sabe: Evangélico=0.2% | Católico=1.5% | Outro=0.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Confia totalmente' → Evangélicos=24.1% vs Católicos=8.0% (diferença=16.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02632.sav
+TEMA: Confiança na Igreja Católica
+VARIÁVEL: B20 — B20. Até que ponto o sr./sra. tem confiança na Igreja Católica?
+N total=1214 | Evangélicos=206 | Católicos=815 | Outros=193
+Qui-quadrado: χ²=174.15, p=0.0000 (***), gl=7
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    (1) Nada: Evangélico=31.6% | Católico=7.0% | Outro=29.5%
+    2.0: Evangélico=10.2% | Católico=3.1% | Outro=7.8%
+    3.0: Evangélico=8.7% | Católico=5.2% | Outro=8.8%
+    4.0: Evangélico=13.6% | Católico=6.3% | Outro=11.4%
+    5.0: Evangélico=11.7% | Católico=14.1% | Outro=13.0%
+    6.0: Evangélico=8.7% | Católico=16.3% | Outro=10.4%
+    (7) Muito: Evangélico=12.6% | Católico=46.7% | Outro=16.1%
+    NS / NR: Evangélico=2.9% | Católico=1.3% | Outro=3.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: '(7) Muito' → Evangélicos=12.6% vs Católicos=46.7% (diferença=34.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02632.sav
+TEMA: Frequência a reuniões de organização religiosa
+VARIÁVEL: CP6 — CP6. Por favor, diga se o sr./sra assiste às reuniões pelo menos uma vez por semana, uma ou duas vezes ao mês, uma ou duas vezes ao ano, ou nunca: Reuniões de alguma organização religiosa?
+N total=1214 | Evangélicos=206 | Católicos=815 | Outros=193
+Qui-quadrado: χ²=136.11, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Uma vez por semana: Evangélico=55.3% | Católico=16.7% | Outro=29.0%
+    Uma ou duas vezes ao mês: Evangélico=15.0% | Católico=20.0% | Outro=10.4%
+    Uma ou duas vezes ao ano: Evangélico=7.3% | Católico=14.4% | Outro=10.9%
+    Nunca: Evangélico=21.8% | Católico=48.6% | Outro=49.7%
+    NS / NR: Evangélico=0.5% | Católico=0.4% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Uma vez por semana' → Evangélicos=55.3% vs Católicos=16.7% (diferença=38.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02632.sav
+TEMA: Pediu ajuda a alguma igreja para resolver problemas
+VARIÁVEL: CP4B — CP4B. Para poder resolver seus problemas, o sr/sra pediu ajuda ou cooperação alguma vez: Alguma Igreja?
+N total=1214 | Evangélicos=206 | Católicos=815 | Outros=193
+Qui-quadrado: χ²=3.41, p=0.1820 (n.s.), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=10.2% | Católico=6.5% | Outro=7.8%
+    Não: Evangélico=89.3% | Católico=93.1% | Outro=92.2%
+    NS / NR: Evangélico=0.5% | Católico=0.4% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não' → Evangélicos=89.3% vs Católicos=93.1% (diferença=3.8pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02636.sav
+TEMA: Já sofreu preconceito por causa da religião
+VARIÁVEL: p47c — Você alguma vez já sofreu preconceito POR CAUSA DA SUA RELIGIÃO?
+N total=2982 | Evangélicos=669 | Católicos=1913 | Outros=400
+Qui-quadrado: χ²=235.18, p=0.0000 (***), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=38.9% | Católico=11.9% | Outro=27.5%
+    Não: Evangélico=61.1% | Católico=88.0% | Outro=72.5%
+    Recusa / Não respondeu: Evangélico=0.0% | Católico=0.1% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Sim' → Evangélicos=38.9% vs Católicos=11.9% (diferença=26.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02636.sav
+TEMA: Participa de movimentos ligados à Igreja
+VARIÁVEL: p45h — Agora vou citar algumas organizações e movimentos sociais e gostaria de saber, de cada um, se você participa ou não - MOVIMENTOS LIGADOS À IGREJA?
+N total=2982 | Evangélicos=669 | Católicos=1913 | Outros=400
+Qui-quadrado: χ²=77.80, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=47.4% | Católico=28.8% | Outro=17.2%
+    Não: Evangélico=51.9% | Católico=70.6% | Outro=81.8%
+    Não conhece / Nunca ouviu falar: Evangélico=0.4% | Católico=0.5% | Outro=1.0%
+    Recusa / Não respondeu: Evangélico=0.3% | Católico=0.2% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não' → Evangélicos=51.9% vs Católicos=70.6% (diferença=18.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03192.sav
+TEMA: Importância da religião na vida
+VARIÁVEL: P44 — Qual é a importância da religião na sua vida?
+N total=2002 | Evangélicos=390 | Católicos=1243 | Outros=369
+Qui-quadrado: χ²=118.51, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Extremamente importante: Evangélico=49.2% | Católico=23.7% | Outro=45.1%
+    Muito importante: Evangélico=46.9% | Católico=56.7% | Outro=43.9%
+    Mais ou menos importante: Evangélico=3.3% | Católico=14.1% | Outro=8.5%
+    Pouco importante: Evangélico=0.3% | Católico=3.8% | Outro=0.0%
+    Sem importância: Evangélico=0.0% | Católico=1.4% | Outro=1.2%
+    Não respondeu: Evangélico=0.3% | Católico=0.3% | Outro=1.2%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Extremamente importante' → Evangélicos=49.2% vs Católicos=23.7% (diferença=25.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03192.sav
+TEMA: Deve fazer o que a Igreja aconselha ou só quando concorda
+VARIÁVEL: P45 — Na sua opinião, uma pessoa religiosa deve fazer sempre o que a Igreja ou o templo aconselha ou só quando estiver de acordo com o que ela acredita?
+N total=2002 | Evangélicos=390 | Católicos=1243 | Outros=369
+Qui-quadrado: χ²=36.56, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Fazer sempre o que a Igreja ou templo aconselha: Evangélico=32.8% | Católico=18.3% | Outro=25.6%
+    Fazer só quando estiver de acordo com o que acredita: Evangélico=57.2% | Católico=69.8% | Outro=61.0%
+    Depende (Esp.): Evangélico=8.5% | Católico=10.0% | Outro=11.0%
+    Não sabe: Evangélico=0.8% | Católico=0.9% | Outro=1.2%
+    Não respondeu: Evangélico=0.8% | Católico=1.0% | Outro=1.2%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Fazer sempre o que a Igreja ou templo aconselha' → Evangélicos=32.8% vs Católicos=18.3% (diferença=14.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03192.sav
+TEMA: Confiança na Igreja
+VARIÁVEL: P7301 — Para cada um dos grupos ou instituições que eu citar, gostaria que o(a) sr(a) me dissesse confia ou não confia: igreja.
+N total=2002 | Evangélicos=390 | Católicos=1243 | Outros=369
+Qui-quadrado: χ²=14.11, p=0.0149 (*), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia muito: Evangélico=31.0% | Católico=22.2% | Outro=12.7%
+    Confia: Evangélico=40.3% | Católico=46.8% | Outro=35.2%
+    Confia pouco: Evangélico=17.7% | Católico=20.2% | Outro=23.6%
+    Não confia: Evangélico=10.3% | Católico=10.3% | Outro=26.3%
+    Não sabe: Evangélico=0.5% | Católico=0.4% | Outro=1.6%
+    Não respondeu: Evangélico=0.3% | Católico=0.1% | Outro=0.5%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Confia muito' → Evangélicos=31.0% vs Católicos=22.2% (diferença=8.8pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03192.sav
+TEMA: Frequência a cerimônias religiosas
+VARIÁVEL: P43 — Exceto para batizados, casamentos ou funerais, com que freqüência o(a) sr(a) comparece às cerimônias de sua religião?
+N total=2002 | Evangélicos=390 | Católicos=1243 | Outros=369
+Qui-quadrado: χ²=270.62, p=0.0000 (***), gl=7
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Diariamente: Evangélico=22.8% | Católico=4.7% | Outro=22.0%
+    Ao menos 1 vez por semana: Evangélico=52.6% | Católico=27.9% | Outro=51.2%
+    Ao menos 1 vez a cada 15 dias: Evangélico=8.5% | Católico=11.0% | Outro=2.4%
+    1 vez por mês: Evangélico=8.2% | Católico=19.6% | Outro=8.5%
+    Menos de 1 vez por mês: Evangélico=5.4% | Católico=18.3% | Outro=9.8%
+    Não freqüenta: Evangélico=2.6% | Católico=18.1% | Outro=6.1%
+    Não sabe: Evangélico=0.0% | Católico=0.2% | Outro=0.0%
+    Não respondeu: Evangélico=0.0% | Católico=0.2% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Ao menos 1 vez por semana' → Evangélicos=52.6% vs Católicos=27.9% (diferença=24.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03369.sav
+TEMA: Posição sobre sexualidade dos brasileiros
+VARIÁVEL: p1 — Qual é o seu estado conjugal?
+N total=2158 | Evangélicos=506 | Católicos=1333 | Outros=319
+Qui-quadrado: χ²=2.80, p=0.4238 (n.s.), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Casado (a): Evangélico=53.4% | Católico=54.9% | Outro=43.9%
+    Solteiro (a): Evangélico=32.0% | Católico=30.6% | Outro=39.8%
+    Viúvo (a): Evangélico=7.9% | Católico=6.3% | Outro=3.1%
+    Separado (a) / Divorciado (a): Evangélico=6.7% | Católico=8.2% | Outro=13.2%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Viúvo (a)' → Evangélicos=7.9% vs Católicos=6.3% (diferença=1.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03370.sav
+TEMA: Existem casos de corrupção na Igreja Católica
+VARIÁVEL: p6h — Pelo que você sabe ou ouviu dizer, existem ou não casos de corrupção: Na Igreja Católica
+N total=2123 | Evangélicos=488 | Católicos=1258 | Outros=377
+Qui-quadrado: χ²=25.97, p=0.0000 (***), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=52.5% | Católico=48.7% | Outro=69.5%
+    Não: Evangélico=24.2% | Católico=35.5% | Outro=14.1%
+    não sabe: Evangélico=23.4% | Católico=15.8% | Outro=16.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não' → Evangélicos=24.2% vs Católicos=35.5% (diferença=11.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03370.sav
+TEMA: Existem casos de corrupção nas igrejas evangélicas
+VARIÁVEL: p6s — Pelo que você sabe ou ouviu dizer, existem ou não casos de corrupção: Nas igrejas evangélicas
+N total=2123 | Evangélicos=488 | Católicos=1258 | Outros=377
+Qui-quadrado: χ²=29.75, p=0.0000 (***), gl=2
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Sim: Evangélico=51.8% | Católico=64.5% | Outro=75.9%
+    Não: Evangélico=30.5% | Católico=19.2% | Outro=12.2%
+    não sabe: Evangélico=17.6% | Católico=16.2% | Outro=11.9%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Sim' → Evangélicos=51.8% vs Católicos=64.5% (diferença=12.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 03932.sav
+TEMA: Sentimento ao encontrar gente muito religiosa
+VARIÁVEL: p10AB3 — Vou falar de alguns grupos de pessoas e gostaria que o/a sr(a) dissesse o que sente normalmente quando vê ou encontra desconhecidos do tipo deles: GENTE MUITO RELIGIOSA
+N total=2014 | Evangélicos=509 | Católicos=1160 | Outros=345
+Qui-quadrado: χ²=10.17, p=0.1791 (n.s.), gl=7
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    repulsa, ódio: Evangélico=5.1% | Católico=3.8% | Outro=9.0%
+    antipatia: Evangélico=14.5% | Católico=15.9% | Outro=27.2%
+    indiferença: Evangélico=36.0% | Católico=39.3% | Outro=40.9%
+    satisfação, alegria: Evangélico=39.1% | Católico=37.8% | Outro=17.1%
+    Dó, pena: Evangélico=3.1% | Católico=1.5% | Outro=3.2%
+    Outras respostas: Evangélico=0.6% | Católico=0.6% | Outro=0.6%
+    Não sabe: Evangélico=1.6% | Católico=0.9% | Outro=1.4%
+    Recusa: Evangélico=0.0% | Católico=0.2% | Outro=0.3%
+    Não respondeu: Evangélico=0.0% | Católico=0.0% | Outro=0.3%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'indiferença' → Evangélicos=36.0% vs Católicos=39.3% (diferença=3.4pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04722.sav
+TEMA: Confiança nas Igrejas (ICS 2020)
+VARIÁVEL: P110 — Para cada uma das instituições, o(a) sr(a) tem muita confiança, alguma confiança, quase nenhuma confiança ou nenhuma confiança: Nas Igrejas.
+N total=2002 | Evangélicos=426 | Católicos=1080 | Outros=496
+Qui-quadrado: χ²=16.19, p=0.0028 (**), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Nenhuma confiança: Evangélico=3.3% | Católico=6.6% | Outro=18.8%
+    Quase nenhuma confiança: Evangélico=5.2% | Católico=8.1% | Outro=15.3%
+    Alguma confiança: Evangélico=32.9% | Católico=33.2% | Outro=31.7%
+    Muita confiança: Evangélico=58.5% | Católico=50.8% | Outro=33.1%
+    Não sabe/ Não respondeu: Evangélico=0.2% | Católico=1.3% | Outro=1.2%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muita confiança' → Evangélicos=58.5% vs Católicos=50.8% (diferença=7.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04820.sav
+TEMA: Confiança nas igrejas (Cara da Democracia 2018)
+VARIÁVEL: p14.6 — GRAU DE CONFIANÇA nas instituições/órgãos públicos e particulares: IGREJAS
+N total=2500 | Evangélicos=680 | Católicos=1484 | Outros=336
+Qui-quadrado: χ²=20.79, p=0.0009 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia muito: Evangélico=41.9% | Católico=34.9% | Outro=22.6%
+    Confia mais ou menos: Evangélico=32.1% | Católico=30.3% | Outro=22.3%
+    Confia pouco: Evangélico=12.2% | Católico=15.0% | Outro=15.8%
+    Não confia: Evangélico=12.6% | Católico=18.9% | Outro=37.8%
+    NS: Evangélico=0.9% | Católico=0.5% | Outro=0.6%
+    NR: Evangélico=0.3% | Católico=0.3% | Outro=0.9%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Confia muito' → Evangélicos=41.9% vs Católicos=34.9% (diferença=7.0pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04820.sav
+TEMA: Grau de religiosidade
+VARIÁVEL: p60 — RELIGIÃO:  O(a) sr(a) se considera uma pessoa:
+N total=2500 | Evangélicos=680 | Católicos=1484 | Outros=336
+Qui-quadrado: χ²=62.05, p=0.0000 (***), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito religiosa: Evangélico=18.4% | Católico=10.8% | Outro=8.6%
+    Religiosa: Evangélico=50.7% | Católico=42.2% | Outro=23.8%
+    Um pouco religiosa: Evangélico=27.6% | Católico=38.5% | Outro=25.9%
+    Nada religiosa?: Evangélico=3.1% | Católico=8.1% | Outro=40.2%
+    NS: Evangélico=0.1% | Católico=0.4% | Outro=1.2%
+    NR: Evangélico=0.0% | Católico=0.0% | Outro=0.3%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Um pouco religiosa' → Evangélicos=27.6% vs Católicos=38.5% (diferença=10.8pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04820.sav
+TEMA: Frequência a missa ou culto religioso
+VARIÁVEL: p61 — RELIGIÃO:  Sem considerar batizados e casamentos, com que frequência o(a) sr(a) vai à missa ou culto religioso?
+N total=2500 | Evangélicos=680 | Católicos=1484 | Outros=336
+Qui-quadrado: χ²=333.17, p=0.0000 (***), gl=6
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Mais de uma vez por semana: Evangélico=36.0% | Católico=7.7% | Outro=8.0%
+    Uma vez por semana: Evangélico=31.0% | Católico=26.3% | Outro=9.2%
+    Uma ou duas vezes por mês: Evangélico=13.1% | Católico=19.3% | Outro=9.5%
+    Algumas vezes por ano: Evangélico=5.1% | Católico=13.3% | Outro=11.9%
+    Raramente: Evangélico=13.1% | Católico=27.6% | Outro=20.8%
+    Nunca vai à missa ou culto religioso: Evangélico=1.5% | Católico=5.8% | Outro=39.9%
+    NS: Evangélico=0.1% | Católico=0.0% | Outro=0.3%
+    NR: Evangélico=0.0% | Católico=0.0% | Outro=0.3%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Mais de uma vez por semana' → Evangélicos=36.0% vs Católicos=7.7% (diferença=28.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04825.sav
+TEMA: Confiança nas igrejas (Cara da Democracia 2020)
+VARIÁVEL: q8.4 — Igrejas [Gostaria de saber qual é o grau de confiança que você tem em:]
+N total=1000 | Evangélicos=244 | Católicos=515 | Outros=241
+Qui-quadrado: χ²=7.79, p=0.0996 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia muito: Evangélico=41.0% | Católico=33.4% | Outro=10.4%
+    Confia mais ou menos: Evangélico=34.8% | Católico=33.8% | Outro=24.9%
+    Confia pouco: Evangélico=11.9% | Católico=16.9% | Outro=17.8%
+    Não confia: Evangélico=11.1% | Católico=15.1% | Outro=45.6%
+    NS: Evangélico=1.2% | Católico=0.8% | Outro=0.8%
+    NR: Evangélico=0.0% | Católico=0.0% | Outro=0.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Confia muito' → Evangélicos=41.0% vs Católicos=33.4% (diferença=7.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Democracia é sempre melhor (cultura política 1993)
+VARIÁVEL: p5 — Gostaria que você me dissesse com qual dessas 3 afirmações você concorda mais:
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=4.87, p=0.3013 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A democracia é sempre melhor que qualquer outra forma de governo: Evangélico=59.6% | Católico=54.9% | Outro=69.0%
+    Em certas circunstâncias, é melhor uma ditadura do que um regime democrático: Evangélico=10.0% | Católico=14.1% | Outro=15.2%
+    Tanto faz se o governo é uma democracia ou uma ditadura: Evangélico=15.2% | Católico=14.5% | Outro=7.6%
+    Outras respostas: Evangélico=1.7% | Católico=1.0% | Outro=1.0%
+    Não sabe: Evangélico=13.5% | Católico=15.5% | Outro=7.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A democracia é sempre melhor que qualquer outra forma de governo' → Evangélicos=59.6% vs Católicos=54.9% (diferença=4.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Confiança no governo do Brasil
+VARIÁVEL: p29 — Até que ponto você confia no governo do Brasil para se fazer o que é certo:
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=2.38, p=0.6665 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Confia sempre: Evangélico=14.3% | Católico=11.6% | Outro=6.6%
+    A maior parte do tempo: Evangélico=6.5% | Católico=5.6% | Outro=5.6%
+    Somente às vezes: Evangélico=43.9% | Católico=43.6% | Outro=39.6%
+    Quase nunca: Evangélico=32.2% | Católico=36.0% | Outro=47.2%
+    Não sabe: Evangélico=3.0% | Católico=3.1% | Outro=1.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Quase nunca' → Evangélicos=32.2% vs Católicos=36.0% (diferença=3.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Confiança nas igrejas
+VARIÁVEL: p65c — Você acha que pode confiar totalmente, até certo ponto, pouco ou não pode confiar nada: Nas igrejas e clero
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=5.04, p=0.2832 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Totalmente: Evangélico=35.4% | Católico=38.7% | Outro=16.2%
+    Certo ponto: Evangélico=34.9% | Católico=30.2% | Outro=31.0%
+    Pouco: Evangélico=19.2% | Católico=23.1% | Outro=28.9%
+    Nada: Evangélico=8.3% | Católico=6.4% | Outro=20.8%
+    Não sabe: Evangélico=2.2% | Católico=1.5% | Outro=3.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Certo ponto' → Evangélicos=34.9% vs Católicos=30.2% (diferença=4.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Confiança no governo federal
+VARIÁVEL: p65b — Você acha que pode confiar totalmente, até certo ponto, pouco ou não pode confiar nada: No governo federal
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=1.51, p=0.8253 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Totalmente: Evangélico=7.4% | Católico=9.1% | Outro=3.0%
+    Certo ponto: Evangélico=30.4% | Católico=28.1% | Outro=33.5%
+    Pouco: Evangélico=37.0% | Católico=35.5% | Outro=34.0%
+    Nada: Evangélico=22.2% | Católico=24.1% | Outro=26.4%
+    Não sabe: Evangélico=3.0% | Católico=3.2% | Outro=3.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Certo ponto' → Evangélicos=30.4% vs Católicos=28.1% (diferença=2.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Confiança nos partidos políticos
+VARIÁVEL: p65h — Você acha que pode confiar totalmente, até certo ponto, pouco ou não pode confiar nada: Nos partidos políticos
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=5.49, p=0.2403 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Totalmente: Evangélico=2.6% | Católico=4.6% | Outro=1.0%
+    Certo ponto: Evangélico=26.5% | Católico=25.3% | Outro=29.4%
+    Pouco: Evangélico=30.0% | Católico=35.1% | Outro=32.0%
+    Nada: Evangélico=36.5% | Católico=31.4% | Outro=35.5%
+    Não sabe: Evangélico=4.3% | Católico=3.6% | Outro=2.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Nada' → Evangélicos=36.5% vs Católicos=31.4% (diferença=5.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00322.SAV
+TEMA: Partidos são indispensáveis à democracia
+VARIÁVEL: p38 — Na sua opinião, os partidos políticos são:
+N total=2526 | Evangélicos=230 | Católicos=1668 | Outros=197
+Qui-quadrado: χ²=7.90, p=0.0482 (*), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Indispensáveis à democracia: Evangélico=37.8% | Católico=33.0% | Outro=46.2%
+    Só servem para dividir as pessoas: Evangélico=45.2% | Católico=53.4% | Outro=45.7%
+    Outras respostas: Evangélico=0.4% | Católico=1.3% | Outro=2.0%
+    Não sabe: Evangélico=16.5% | Católico=12.3% | Outro=6.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Só servem para dividir as pessoas' → Evangélicos=45.2% vs Católicos=53.4% (diferença=8.2pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00387.SAV
+  ERRO: Variável temática 'p5' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00499.SAV
+TEMA: Brancos têm preconceito contra negros (preconceito 1995)
+VARIÁVEL: p16 — Na sua opinião, no Brasil, os brancos tem preconceito de cor em relação aos negros? (SE SIM) Muito ou pouco?
+N total=5081 | Evangélicos=608 | Católicos=3741 | Outros=732
+Qui-quadrado: χ²=1.46, p=0.9174 (n.s.), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não tem preconceito: Evangélico=9.4% | Católico=9.8% | Outro=6.1%
+    Têm muito: Evangélico=58.4% | Católico=60.1% | Outro=66.8%
+    Têm um pouco: Evangélico=26.8% | Católico=24.9% | Outro=23.0%
+    Têm mas não sabe se muito ou pouco: Evangélico=3.5% | Católico=3.0% | Outro=3.4%
+    Não sabe se no Brasil os brancos têm preconceito: Evangélico=1.8% | Católico=2.0% | Outro=0.5%
+    Não respondeu: Evangélico=0.2% | Católico=0.1% | Outro=0.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Têm um pouco' → Evangélicos=26.8% vs Católicos=24.9% (diferença=1.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00499.SAV
+TEMA: Casamento filho com pessoa negra
+VARIÁVEL: p15 — (Se P2 <> 2) Se um filho ou uma filha sua casasse com uma pessoa negra você:
+N total=5081 | Evangélicos=608 | Católicos=3741 | Outros=732
+Qui-quadrado: χ²=19.87, p=0.0059 (**), gl=7
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Não se aplica: Evangélico=13.3% | Católico=11.6% | Outro=12.6%
+    Não se importaria: Evangélico=76.6% | Católico=74.2% | Outro=74.3%
+    Ficaria contrariado(a) mas procuraria aceitar: Evangélico=5.1% | Católico=8.4% | Outro=6.8%
+    Não aceitaria o casamento: Evangélico=2.3% | Católico=3.5% | Outro=2.9%
+    Outras respostas: Evangélico=0.3% | Católico=0.6% | Outro=1.0%
+    Não sabe: Evangélico=1.2% | Católico=0.9% | Outro=0.4%
+    Depende: Evangélico=0.3% | Católico=0.7% | Outro=1.2%
+    Não respondeu: Evangélico=0.8% | Católico=0.2% | Outro=0.8%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Ficaria contrariado(a) mas procuraria aceitar' → Evangélicos=5.1% vs Católicos=8.4% (diferença=3.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Favor ou contra aborto em caso de estupro
+VARIÁVEL: p3a — Você é a favor ou contra que o aborto seja permitido em caso de estupro?
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=20.68, p=0.0001 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A favor: Evangélico=63.3% | Católico=79.3% | Outro=83.6%
+    Contra: Evangélico=31.9% | Católico=17.8% | Outro=15.5%
+    Indiferente: Evangélico=1.1% | Católico=0.6% | Outro=0.0%
+    Não sabe: Evangélico=3.7% | Católico=2.2% | Outro=0.9%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A favor' → Evangélicos=63.3% vs Católicos=79.3% (diferença=16.0pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Projeto de lei para ampliar aborto
+VARIÁVEL: p4 — Há projetos de lei para ampliar a situação em que o aborto seria permitido. Você é a favor que:
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=5.56, p=0.2344 (n.s.), gl=4
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A lei continue como está: Evangélico=62.2% | Católico=55.0% | Outro=51.6%
+    Que o aborto seja permitido em mais situações: Evangélico=15.4% | Católico=22.7% | Outro=22.4%
+    Que o aborto deixe deser crime em qualquer caso: Evangélico=18.1% | Católico=17.5% | Outro=20.5%
+    Outras respostas: Evangélico=2.7% | Católico=2.4% | Outro=4.1%
+    Não sabe: Evangélico=1.6% | Católico=2.4% | Outro=1.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Que o aborto seja permitido em mais situações' → Evangélicos=15.4% vs Católicos=22.7% (diferença=7.3pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Favor ou contra aborto quando mãe tem AIDS
+VARIÁVEL: p9a —  Você diria que é a favor ou contra que o aborto seja feito nos seguintes casos: quando a mãe tem AIDS.
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=29.82, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A favor: Evangélico=51.1% | Católico=69.1% | Outro=61.2%
+    Contra: Evangélico=41.0% | Católico=26.0% | Outro=33.3%
+    Indiferente: Evangélico=3.7% | Católico=0.6% | Outro=0.5%
+    Não sabe: Evangélico=4.3% | Católico=4.3% | Outro=5.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A favor' → Evangélicos=51.1% vs Católicos=69.1% (diferença=18.0pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Favor ou contra aborto quando má formação feto
+VARIÁVEL: p9e — Você diria que é a favor ou contra que o aborto seja feito nos seguintes casos:Quando há má formação do feto
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=2.80, p=0.4242 (n.s.), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A favor: Evangélico=59.0% | Católico=64.2% | Outro=66.7%
+    Contra: Evangélico=35.1% | Católico=29.0% | Outro=26.0%
+    Indiferente: Evangélico=1.6% | Católico=1.5% | Outro=0.5%
+    Não sabe: Evangélico=4.3% | Católico=5.3% | Outro=6.8%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Contra' → Evangélicos=35.1% vs Católicos=29.0% (diferença=6.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Mais importante: acesso ao aborto ou normas morais/religiosas
+VARIÁVEL: p12 — Na sua opnião o que é o mais importante:
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=25.19, p=0.0000 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A possibilidade de mulheres carentes terem condições de fazer aborto nos casos previstos por  lei: Evangélico=50.0% | Católico=68.1% | Outro=74.4%
+    Seguir as normas morais e religiosas que condenam o aborto sob qualquer hipótese: Evangélico=44.1% | Católico=25.6% | Outro=21.9%
+    Outras respostas: Evangélico=0.0% | Católico=0.3% | Outro=0.9%
+    Não sabe: Evangélico=5.9% | Católico=6.1% | Outro=2.7%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Seguir as normas morais e religiosas que condenam o aborto sob qualquer hipótese' → Evangélicos=44.1% vs Católicos=25.6% (diferença=18.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 00828.SAV
+TEMA: Papa deve falar sobre projeto do aborto na visita
+VARIÁVEL: p16 — O papa João Paulo II vem ao Brasil no início de outubro. A Igreja Católica no Brasil vai aproveitar a visita para discutir a questão do aborto. Na sua opinião:
+N total=1080 | Evangélicos=188 | Católicos=673 | Outros=219
+Qui-quadrado: χ²=10.28, p=0.0163 (*), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A Igreja deve aproveitar a visita do papa para falar sobre o projeto: Evangélico=49.5% | Católico=54.5% | Outro=46.1%
+    Esse assunto não deveria ser discutido durante a visita do papa: Evangélico=43.6% | Católico=43.1% | Outro=49.8%
+    Outras respostas: Evangélico=1.1% | Católico=0.6% | Outro=0.0%
+    Não sabe: Evangélico=5.9% | Católico=1.8% | Outro=4.1%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'A Igreja deve aproveitar a visita do papa para falar sobre o projeto' → Evangélicos=49.5% vs Católicos=54.5% (diferença=5.1pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02637.SAV
+TEMA: Posição sobre aborto (jovens brasileiros)
+VARIÁVEL: p60 — Atualmente o aborto é permitido por lei apenas em casos de estupro e de risco de vida da mãe. Há projetos de lei para ampliar a situação em que o aborto seria permitido. Você é a favor que:
+N total=1541 | Evangélicos=376 | Católicos=906 | Outros=259
+Qui-quadrado: χ²=1.08, p=0.9562 (n.s.), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A lei continue com está: Evangélico=70.2% | Católico=69.5% | Outro=57.5%
+    Que o aborto seja permitido em amis situações: Evangélico=14.4% | Católico=15.0% | Outro=21.2%
+    Que o aborto deixe de ser crime em qualquer caso: Evangélico=10.6% | Católico=11.6% | Outro=16.2%
+    Que o aborto não seja permitido em nenhuma situação: Evangélico=2.4% | Católico=2.0% | Outro=1.9%
+    Outras respostas: Evangélico=0.3% | Católico=0.3% | Outro=1.2%
+    Não sabe: Evangélico=2.1% | Católico=1.5% | Outro=1.9%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Que o aborto deixe de ser crime em qualquer caso' → Evangélicos=10.6% vs Católicos=11.6% (diferença=1.0pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02637.SAV
+TEMA: Pena de morte (jovens brasileiros)
+VARIÁVEL: p63 — Se houvesse uma consulta à população, como você votaria sobre a adoção da pena de morte no Brasil?
+N total=1541 | Evangélicos=376 | Católicos=906 | Outros=259
+Qui-quadrado: χ²=16.94, p=0.0007 (***), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    A favor: Evangélico=42.0% | Católico=53.1% | Outro=48.3%
+    Contra: Evangélico=53.5% | Católico=41.8% | Outro=48.6%
+    Indiferente: Evangélico=2.7% | Católico=1.9% | Outro=1.5%
+    Não sabe: Evangélico=1.9% | Católico=3.2% | Outro=1.5%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Contra' → Evangélicos=53.5% vs Católicos=41.8% (diferença=11.6pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02637.SAV
+TEMA: Importância da família na vida (jovens)
+VARIÁVEL: p41a — Dentre estes itens que vou citar gostaria que você me dissesse de cada um se considera em sua vida - CASAMENTO?
+N total=1541 | Evangélicos=376 | Católicos=906 | Outros=259
+Qui-quadrado: χ²=36.91, p=0.0000 (***), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito importante: Evangélico=50.3% | Católico=35.5% | Outro=27.8%
+    Importante: Evangélico=33.5% | Católico=33.4% | Outro=35.5%
+    Mais ou menos importante: Evangélico=6.6% | Católico=12.3% | Outro=16.2%
+    Um pouco importante: Evangélico=4.3% | Católico=9.8% | Outro=8.9%
+    Nada importante: Evangélico=5.1% | Católico=8.3% | Outro=11.6%
+    Não sabe / Recusa: Evangélico=0.3% | Católico=0.7% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muito importante' → Evangélicos=50.3% vs Católicos=35.5% (diferença=14.7pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 02637.SAV
+TEMA: Importância da religião na vida (jovens)
+VARIÁVEL: p41b — Dentre estes itens que vou citar gostaria que você me dissesse de cada um se considera em sua vida - FAMÍLIA?
+N total=1541 | Evangélicos=376 | Católicos=906 | Outros=259
+Qui-quadrado: χ²=3.70, p=0.5930 (n.s.), gl=5
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito importante: Evangélico=84.6% | Católico=83.1% | Outro=76.8%
+    Importante: Evangélico=14.9% | Católico=15.5% | Outro=20.8%
+    Mais ou menos importante: Evangélico=0.3% | Católico=0.8% | Outro=1.5%
+    Um pouco importante: Evangélico=0.0% | Católico=0.4% | Outro=0.4%
+    Nada importante: Evangélico=0.0% | Católico=0.1% | Outro=0.4%
+    Não sabe / Recusa: Evangélico=0.3% | Católico=0.1% | Outro=0.0%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muito importante' → Evangélicos=84.6% vs Católicos=83.1% (diferença=1.5pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04752.SAV
+TEMA: Posição sobre diversidade sexual LGBTQIA+
+VARIÁVEL: P2 — Na sua opinião, a administração municipal tem feito muito, pouco ou nada para combater a violência contra a população LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transexuais e outros gêneros)?
+N total=800 | Evangélicos=4 | Católicos=18 | Outros=778
+Qui-quadrado: χ²=1.95, p=0.5838 (n.s.), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito: Evangélico=25.0% | Católico=16.7% | Outro=10.8%
+    Pouco: Evangélico=25.0% | Católico=50.0% | Outro=51.8%
+    Nada: Evangélico=0.0% | Católico=11.1% | Outro=19.0%
+    Não sabe/ Não respondeu: Evangélico=50.0% | Católico=22.2% | Outro=18.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Não sabe/ Não respondeu' → Evangélicos=50.0% vs Católicos=22.2% (diferença=27.8pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04748.SAV
+  ERRO: Variável temática 'P2' não encontrada
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04829.SAV
+TEMA: Percepção sobre racismo no Brasil 2023
+VARIÁVEL: P2 — P.02) Gostaria de saber como o(a) sr(a) se sente ao ter que responder qual sua raça/cor/etnia. Você diria que se sente:
+N total=2000 | Evangélicos=15 | Católicos=62 | Outros=1923
+Qui-quadrado: χ²=0.91, p=0.8242 (n.s.), gl=3
+
+  PERCENTUAIS POR GRUPO RELIGIOSO:
+    Muito confortável: Evangélico=26.7% | Católico=25.8% | Outro=23.4%
+    Confortável: Evangélico=53.3% | Católico=58.1% | Outro=68.2%
+    Desconfortável: Evangélico=6.7% | Católico=9.7% | Outro=5.7%
+    Muito desconfortável: Evangélico=13.3% | Católico=6.5% | Outro=1.4%
+    Não sabe/ Não respondeu: Evangélico=0.0% | Católico=0.0% | Outro=1.4%
+
+  DADO PRINCIPAL PARA O TEXTO:
+    Maior diferença: 'Muito desconfortável' → Evangélicos=13.3% vs Católicos=6.5% (diferença=6.9pp)
+
+--------------------------------------------------------------------------------
+ARQUIVO: 04843.SAV
+  ERRO: Variável de religião 'RELIGIAO' não encontrada
